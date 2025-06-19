@@ -1,0 +1,14 @@
+undetected-chromedriver
+selenium
+webdriver-manager
+pandas
+beautifulsoup4
+lxml
+schedule
+openpyxl
+requests
+pymongo
+python-dotenv
+
+undetected-chromedriver
+selenium
