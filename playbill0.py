@@ -213,40 +213,22 @@ def scrape_shows():
 
                                 log_and_print(f"🗓️ Date Range: {date_range} | 📅 Day: {day} | ⏰ Time: {time_slot}")
 
-                                # structured_schedule.append({
-                                #     "Name": entry["Name"],
-                                #     "Link": entry["Link"],
-                                #     "Image URL": entry["image url"],
-                                #     "Venue Name": entry["venue_name"],
-                                #     "Venue Link": entry["venue_link"],
-                                #     "Market": market,
-                                #     "Market Presence": market_location,
-                                #     "Production Type": production_type,
-                                #     "Origin": origin,
-                                #     "Status": status,
-                                #     "Age of Production": age_of_production,
-                                #     "Date Range": date_range,
-                                #     "Date": day,
-                                #     "Time": time_slot
-                                # })
-
                                 structured_schedule.append({
-                                    "Name": entry.get("Name", ""),
-                                    "Link": entry.get("Link", ""),
-                                    "Image URL": entry.get("image url", ""),
-                                    "Venue Name": entry.get("venue_name", ""),
-                                    "Venue Link": entry.get("venue_link", ""),
+                                    "Name": entry["Name"],
+                                    "Link": entry["Link"],
+                                    "Image URL": entry["image url"],
+                                    "Venue Name": entry["venue_name"],
+                                    "Venue Link": entry["venue_link"],
                                     "Market": market,
                                     "Market Presence": market_location,
                                     "Production Type": production_type,
                                     "Origin": origin,
                                     "Status": status,
                                     "Age of Production": age_of_production,
-                                    "Date Range": date_range if date_range else "N/A",
-                                    "Date": day if day else "N/A",
-                                    "Time": time_slot if time_slot else "N/A"
+                                    "Date Range": date_range,
+                                    "Date": day,
+                                    "Time": time_slot
                                 })
-
                                 
                 except Exception as e:
                     log_and_print(f"⚠️ Could not extract schedule: {e}")
@@ -278,40 +260,16 @@ def scrape_shows():
         )
 
 
-        # if all_scraped_data:
-           
-        #     os.makedirs("data", exist_ok=True)       # Ensure 'data' folder exists
-        #     filename = f"data/broadway_shows_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
-        #     df = pd.DataFrame(all_scraped_data)
-        #     df.to_csv(filename, index=False)
-        #     log_and_print(f"📁 Data saved to {filename}")
-        # else:
-        #     log_and_print("⚠️ No data to save.")
-
         if all_scraped_data:
-            os.makedirs("data", exist_ok=True)
-
-            # Define consistent column order
-            columns = [
-                "Name", "Link", "Image URL", "Venue Name", "Venue Link",
-                "Market", "Market Presence", "Production Type", "Origin",
-                "Status", "Age of Production", "Date Range", "Date", "Time"
-            ]
-
-            df = pd.DataFrame(all_scraped_data)
-
-            # Reorder columns and fill missing ones
-            for col in columns:
-                if col not in df.columns:
-                    df[col] = "N/A"
-            df = df[columns]
-
+           
+            os.makedirs("data", exist_ok=True)       # Ensure 'data' folder exists
             filename = f"data/broadway_shows_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+            df = pd.DataFrame(all_scraped_data)
             df.to_csv(filename, index=False)
             log_and_print(f"📁 Data saved to {filename}")
-
-
-        
+        else:
+            log_and_print("⚠️ No data to save.")
+       
 
 # --- Main Execution Block ---
 if __name__ == "__main__":
