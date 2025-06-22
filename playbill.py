@@ -29,13 +29,16 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
+
 def log_and_print(message):
     print(message)
     logging.info(message)
 
+
 # --- Hash function for (potential) deduplication ---
 def hash_event(event):
     return hashlib.md5(json.dumps(event, sort_keys=True).encode()).hexdigest()
+
 
 # --- Scraper Logic ---
 def scrape_shows():
@@ -50,8 +53,10 @@ def scrape_shows():
     options.add_argument(
         "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.188 Safari/537.36"
     )
-    
+
     driver = None
+
+    # =========== SCRAPING LOGIC =======================
     try:
         driver = uc.Chrome(options=options)
         driver.get("https://playbill.com/shows/broadway")
@@ -59,12 +64,14 @@ def scrape_shows():
         time.sleep(random.uniform(2, 4))
 
         # Wait for the show cards to be present
-        WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.show-container")))
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.show-container"))
+        )
         cards = driver.find_elements(By.CSS_SELECTOR, "div.show-container")
         log_and_print(f"📦 Found {len(cards)} show cards on the main page.")
-        
+
         links = []
-        
+
         # Loop through each card to extract the required information
         for i, card in enumerate(cards):
             try:
@@ -72,25 +79,29 @@ def scrape_shows():
                 title_element = card.find_element(By.CSS_SELECTOR, "div.prod-title a")
                 name = title_element.text
                 link = title_element.get_attribute("href")
-                
+
                 # Extract the image
-                img_element = card.find_element(By.CSS_SELECTOR, "div.cover-container img")
+                img_element = card.find_element(
+                    By.CSS_SELECTOR, "div.cover-container img"
+                )
                 img_src = img_element.get_attribute("src")
 
                 # Extract the venue
                 venue_element = card.find_element(By.CSS_SELECTOR, "div.prod-venue a")
                 venue_name = venue_element.text
                 venue_link = venue_element.get_attribute("href")
-                
+
                 if link:
                     # Append the details to the list
-                    links.append({
-                        "Name": name,
-                        "Link": link,
-                        "image url": img_src,
-                        "venue_name": venue_name,
-                        "venue_link": venue_link
-                    })
+                    links.append(
+                        {
+                            "Name": name,
+                            "Link": link,
+                            "image url": img_src,
+                            "venue_name": venue_name,
+                            "venue_link": venue_link,
+                        }
+                    )
                     log_and_print(f"🔗 [{i+1}] Found show: {name} - {link}")
 
             except NoSuchElementException as e:
@@ -98,7 +109,7 @@ def scrape_shows():
 
         wait = WebDriverWait(driver, 10)
         actions = ActionChains(driver)
-        
+
         all_scraped_data = []
 
         # Iterate through each show link
@@ -112,32 +123,49 @@ def scrape_shows():
 
                 # --- Extract production details ---
                 try:
-                    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.bsp-bio-subtitle")))
-                    subtitle_elements = driver.find_elements(By.CSS_SELECTOR, "div.bsp-bio-subtitle h5")
+                    wait.until(
+                        EC.presence_of_element_located(
+                            (By.CSS_SELECTOR, "div.bsp-bio-subtitle")
+                        )
+                    )
+                    subtitle_elements = driver.find_elements(
+                        By.CSS_SELECTOR, "div.bsp-bio-subtitle h5"
+                    )
 
                     market = (
                         subtitle_elements[0].get_attribute("textContent").strip()
-                        if len(subtitle_elements) > 0 else "N/A"
+                        if len(subtitle_elements) > 0
+                        else "N/A"
                     )
                     production_type = (
                         subtitle_elements[1].get_attribute("textContent").strip()
-                        if len(subtitle_elements) > 1 else "N/A"
+                        if len(subtitle_elements) > 1
+                        else "N/A"
                     )
                     origin = (
                         subtitle_elements[2].get_attribute("textContent").strip()
-                        if len(subtitle_elements) > 2 else "N/A"
+                        if len(subtitle_elements) > 2
+                        else "N/A"
                     )
 
                     # Get the state/city from address (Market Presence)
                     try:
-                        address_el = driver.find_element(By.CSS_SELECTOR, "ul.bsp-bio-links li:nth-child(2) a")
+                        address_el = driver.find_element(
+                            By.CSS_SELECTOR, "ul.bsp-bio-links li:nth-child(2) a"
+                        )
                         market_location = address_el.text.strip()
-                        if market_location.endswith("NY") or market_location.endswith("CA") or "New York" in market_location:
+                        if (
+                            market_location.endswith("NY")
+                            or market_location.endswith("CA")
+                            or "New York" in market_location
+                        ):
                             market_location += " (US)"
                     except:
                         market_location = "N/A"
 
-                    log_and_print(f"🌍 Market: {market} | 🎭 Production Type: {production_type} | 📜 Origin: {origin}")
+                    log_and_print(
+                        f"🌍 Market: {market} | 🎭 Production Type: {production_type} | 📜 Origin: {origin}"
+                    )
                     log_and_print(f"📍 Market Presence: {market_location}")
                 except Exception as e:
                     log_and_print(f"⚠️ Could not extract production details: {e}")
@@ -147,8 +175,14 @@ def scrape_shows():
                 structured_schedule = []
 
                 try:
-                    schedule_block = driver.find_element(By.CSS_SELECTOR, "div.bsp-bio-text").text
-                    date_blocks = [block.strip() for block in schedule_block.split("\n\n") if "@" in block]
+                    schedule_block = driver.find_element(
+                        By.CSS_SELECTOR, "div.bsp-bio-text"
+                    ).text
+                    date_blocks = [
+                        block.strip()
+                        for block in schedule_block.split("\n\n")
+                        if "@" in block
+                    ]
 
                     for block in date_blocks:
                         lines = block.split("\n")
@@ -162,22 +196,26 @@ def scrape_shows():
                                 day = parts[0].strip()
                                 time_slot = parts[1].strip()
 
-                                log_and_print(f"🗓️ Date Range: {date_range} | 📅 Day: {day} | ⏰ Time: {time_slot}")
+                                log_and_print(
+                                    f"🗓️ Date Range: {date_range} | 📅 Day: {day} | ⏰ Time: {time_slot}"
+                                )
 
-                                structured_schedule.append({
-                                    "Name": entry["Name"],
-                                    "Link": entry["Link"],
-                                    "Image URL": entry["image url"],
-                                    "Venue Name": entry["venue_name"],
-                                    "Venue Link": entry["venue_link"],
-                                    "Market": market,
-                                    "Market Presence": market_location,
-                                    "Production Type": production_type,
-                                    "Origin": origin,
-                                    "Date Range": date_range,
-                                    "Day": day,
-                                    "Time": time_slot
-                                })
+                                structured_schedule.append(
+                                    {
+                                        "Name": entry["Name"],
+                                        "Link": entry["Link"],
+                                        "Image URL": entry["image url"],
+                                        "Venue Name": entry["venue_name"],
+                                        "Venue Link": entry["venue_link"],
+                                        "Market": market,
+                                        "Market Presence": market_location,
+                                        "Production Type": production_type,
+                                        "Origin": origin,
+                                        "Date Range": date_range,
+                                        "Day": day,
+                                        "Time": time_slot,
+                                    }
+                                )
                 except Exception as e:
                     log_and_print(f"⚠️ Could not extract schedule: {e}")
 
@@ -190,8 +228,6 @@ def scrape_shows():
             except Exception as e:
                 log_and_print(f"🚫 Error scraping show {entry['Name']}: {e}")
 
-
-        
         log_and_print("🛑 Browser closed.")
 
     except Exception as e:
@@ -207,6 +243,8 @@ def scrape_shows():
         log_and_print(
             f"✅ Scraping finished at {end_time.strftime('%Y-%m-%d %H:%M:%S')} (Duration: {duration:.2f} seconds)"
         )
+
+
 # --- Main Execution Block ---
 if __name__ == "__main__":
     scrape_shows()  # Calls the scraper directly
