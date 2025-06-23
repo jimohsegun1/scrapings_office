@@ -137,22 +137,14 @@ def scrape_shows():
 
         # Save data to a CSV file
         if data:
-            os.makedirs("data", exist_ok=True)  # Ensure 'data' folder exists
+           
+            os.makedirs("data", exist_ok=True)       # Ensure 'data' folder exists
             filename = f"data/broadway_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
-
-            # Truncate description field
-            for entry in data:
-                full_desc = entry.get("description", "")
-                if len(full_desc) > 30:
-                    entry["description"] = full_desc[:27] + "..."
-
             df = pd.DataFrame(data)
-            df.to_csv(filename, index=False, encoding="utf-8-sig")
-
+            df.to_csv(filename, index=False)
             log_and_print(f"📁 Data saved to {filename}")
         else:
             log_and_print("⚠️ No data to save.")
-
        
 
 # --- Main Execution Block ---
