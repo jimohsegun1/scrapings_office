@@ -171,8 +171,8 @@ def scrape_shows():  # No longer takes 'headless_mode' as an argument
             os.makedirs("data")
 
         now = datetime.now().strftime("%Y%m%d_%H%M%S")
-        json_path = f"data/events_{now}.json"
-        csv_path = f"data/events_{now}.csv"
+        json_path = f"data/ticketmaster_{now}.json"
+        csv_path = f"data/ticketmaster_{now}.csv"
 
         pd.DataFrame(all_scraped_data).to_json(json_path, orient="records", indent=2)
         pd.DataFrame(all_scraped_data).to_csv(csv_path, index=False)
