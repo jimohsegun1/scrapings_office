@@ -130,9 +130,27 @@ def scrape_shows():
             link = item["Link"]
 
             try:
-                driver.get(link)
-                wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.showpage__contents")))
-                log_and_print(f"[{i+1}] ➡️  Opened detail page for {title}")
+                # driver.get(link)
+                # wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.showpage__contents")))
+                # log_and_print(f"[{i+1}] ➡️  Opened detail page for {title}")
+
+                try:
+                    driver.get(link)
+                except Exception as e:
+                    log_and_print(f"⚠️ Timeout loading page for {title}. Retrying after 5 seconds...")
+                    time.sleep(5)
+                    try:
+                        driver.get(link)
+                    except Exception as e:
+                        log_and_print(f"❌ Retry failed for {title}: {e}")
+                        continue
+
+                try:
+                    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.showpage__contents")))
+                    log_and_print(f"[{i+1}] ➡️  Opened detail page for {title}")
+                except Exception as e:
+                    log_and_print(f"❌ Could not load detail content for {title}: {e}")
+                    continue
 
                 # locate and click the "View Calendar" button
                 try:
