@@ -1,12 +1,17 @@
 <!-- Show & Production:  jimohsegunj@gmail.com -->
 category : Show & Production
-
 - Standardized show titles (e.g., The Phantom of the Opera),
+- Dates and time separately
 - Production type (musical, play, immersive, concert, stream),
 - Origin (original, revival, adaptation,co-production),
-- Status (active, closed, upcoming, canceled)
+- link
+- image url
+- Theatre
 - Age of production (Years since the show first opened)
+- category (show-production)
 - Market presence(US, UK)
+
+- Status (active, closed, upcoming, canceled)
 
 
 
