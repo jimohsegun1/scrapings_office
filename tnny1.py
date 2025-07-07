@@ -39,12 +39,6 @@ def setup_driver():
     options.add_argument("--disable-gpu")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--window-size=1920,1080")  # Set browser window size
-    options.add_argument("--disable-blink-features=AutomationControlled")    
-    options.add_argument("--ignore-certificate-errors")
-    options.add_argument("--ignore-ssl-errors")
-    # options.add_argument("--disable-javascript")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--lang=en-US,en;q=0.9")
 
     # Set custom user-agent to help avoid detection
     options.add_argument(
@@ -55,7 +49,6 @@ def setup_driver():
     if not options.headless:
         driver.maximize_window()  # Maximize if not headless
     return driver
-
 
 # ========== Load Page and Wait for It ==========
 def load_page(driver, url):
@@ -72,70 +65,29 @@ def load_page(driver, url):
     except Exception as e:
         logging.error(f"Error loading page: {e}")
         return False
-    
 
 # ========== Click Calendar Button ==========
 def click_calendar_button(driver):
     try:
-        logging.info("Waiting for calendar button...")
-
-        # Optional: Screenshot for debugging
-        driver.save_screenshot("debug_calendar.png")
-        logging.info("Saved screenshot to debug_calendar.png")
-
-        # Optional: Try dismissing cookie or modal popups
-        try:
-            dismiss_btn = driver.find_element(By.CSS_SELECTOR, ".close-button, .cookie-dismiss, .modal-close")
-            driver.execute_script("arguments[0].click();", dismiss_btn)
-            logging.info("Dismissed popup/modal if present.")
-            time.sleep(1)
-        except:
-            logging.info("No popup/modal to dismiss.")
-
-        # Wait until calendar button is present
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-test="calendar_button"]'))
+        # Wait for and click the "Calendar" button
+        calendar_btn = WebDriverWait(driver, 15).until(
+            EC.element_to_be_clickable(
+                (By.CSS_SELECTOR, 'button[data-test="calendar_button"]')
+            )
         )
-
-        # Get all matching buttons
-        buttons = driver.find_elements(By.CSS_SELECTOR, 'button[data-test="calendar_button"]')
-        logging.info(f"Found {len(buttons)} calendar button(s).")
-
-        if not buttons:
-            raise Exception("Calendar button not found.")
-
-        calendar_btn = buttons[0]
-
-        # Scroll and click via JS to avoid interception
-        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", calendar_btn)
-        time.sleep(0.5)
-        driver.execute_script("arguments[0].click();", calendar_btn)
+        calendar_btn.click()
         logging.info("Clicked the 'Calendar' button successfully.")
 
-        # Wait for toggle buttons to appear
-        WebDriverWait(driver, 15).until(
-            EC.visibility_of_element_located((By.CLASS_NAME, "calendarToggleButtons"))
-        )
-
-        # Get and click second toggle button
-        toggle_buttons = driver.find_elements(By.CSS_SELECTOR, ".calendarToggleButtons button")
-        if len(toggle_buttons) < 2:
-            raise Exception("Second calendar toggle button not found.")
-        driver.execute_script("arguments[0].click();", toggle_buttons[1])
-        logging.info("Clicked the second calendar toggle button (Grid View).")
-
-        # Wait for event list container
+        # Wait until calendar container is visible
         WebDriverWait(driver, 15).until(
             EC.visibility_of_element_located((By.CLASS_NAME, "ot_prodListContainer"))
         )
-        logging.info("Calendar content is visible.")
-        return True
+        logging.info("Calendar content (.ot_prodListContainer) is visible.")
 
+        return True
     except Exception as e:
         logging.error(f"Failed to click the 'Calendar' button: {e}")
         return False
-
-    
 
 # ========== Extract Details From a Single Event Page ==========
 def extract_event_details(driver):
@@ -197,40 +149,7 @@ def extract_event_details(driver):
 
     return details
 
-
-# ========== Helper: Click the second toggle button again after going back ==========
-def click_second_toggle_button(driver):
-    try:
-        WebDriverWait(driver, 15).until(
-            EC.visibility_of_element_located((By.CLASS_NAME, "calendarToggleButtons"))
-        )
-        toggle_buttons = driver.find_elements(By.CSS_SELECTOR, ".calendarToggleButtons button")
-
-        if len(toggle_buttons) >= 2:
-            # Scroll into view first
-            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", toggle_buttons[1])
-            time.sleep(0.5)
-
-            # Click with JavaScript to avoid interception
-            driver.execute_script("arguments[0].click();", toggle_buttons[1])
-            logging.info("Re-clicked the second calendar toggle button (via JS).")
-        else:
-            raise Exception("Less than 2 toggle buttons found.")
-
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "ot_prodListContainer"))
-        )
-        time.sleep(1)  # Let the calendar settle
-        logging.info("Calendar content (.ot_prodListContainer) is visible again after returning.")
-        return True
-
-    except Exception as e:
-        logging.error(f"Error re-clicking the second toggle button: {e}")
-        return False
-
-
-
-
+# ========== Extract All Events From Calendar ==========
 def extract_events(driver):
     try:
         WebDriverWait(driver, 15).until(
@@ -238,52 +157,48 @@ def extract_events(driver):
         )
         logging.info("Event list container is visible.")
 
+        original_events = driver.find_elements(
+            By.CSS_SELECTOR, ".ot_prodListItem.ot_callout"
+        )
+        logging.info(f"Found {len(original_events)} event items.")
+
         event_data_list = []
-        processed_urls = set()
-        index = 0
 
-        while True:
-            # Refresh events list every loop to get fresh DOM references
-            events = WebDriverWait(driver, 10).until(
-                EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".ot_prodListItem.ot_callout"))
-            )
-
-            if index >= len(events):
-                break
-
+        # Loop through all found events
+        for idx in range(len(original_events)):
             try:
-                event = events[index]
-                button = event.find_element(By.CSS_SELECTOR, "button.ot_prodInfoButton")
-                driver.execute_script("arguments[0].scrollIntoView({behavior: 'instant', block: 'center'});", button)
-                time.sleep(0.5)
+                events = driver.find_elements(
+                    By.CSS_SELECTOR, ".ot_prodListItem.ot_callout"
+                )
+
+                # Re-check if event still exists
+                if idx >= len(events):
+                    logging.warning(f"Event #{idx + 1} no longer exists on reloaded page.")
+                    continue
+
+                # Click the event's button to view details
+                button = events[idx].find_element(By.CSS_SELECTOR, "button.ot_prodInfoButton")
+                driver.execute_script(
+                    "arguments[0].scrollIntoView({behavior: 'instant', block: 'center'});", button)
                 button.click()
-                logging.info(f"Clicked 'See this event' on event #{index + 1}")
+                logging.info(f"Clicked 'See this event' on event #{idx + 1}")
 
                 WebDriverWait(driver, 10).until(EC.url_contains("production"))
 
-                current_url = driver.current_url
-                if current_url in processed_urls:
-                    logging.info(f"Already processed {current_url}, skipping.")
-                    driver.back()
-                    click_second_toggle_button(driver)
-                    index += 1
-                    continue
-
-                processed_urls.add(current_url)
-
+                # EXTRACT EVENT DATA
                 details = extract_event_details(driver)
                 event_data_list.append(details)
-                logging.info(f"Extracted event #{index + 1} details: {details}")
+                logging.info(f"Extracted event #{idx + 1} details: {details}")
 
-                driver.back()
-                click_second_toggle_button(driver)
-                index += 1
+                driver.back()  # Return to calendar
+                WebDriverWait(driver, 10).until(
+                    EC.visibility_of_element_located(
+                        (By.CLASS_NAME, "ot_prodListContainer")
+                    )
+                )
 
             except Exception as e:
-                logging.error(f"Error processing event #{index + 1}: {e}")
-                driver.back()
-                click_second_toggle_button(driver)
-                index += 1
+                logging.error(f"Error processing event #{idx + 1}: {e}")
 
         return event_data_list
 

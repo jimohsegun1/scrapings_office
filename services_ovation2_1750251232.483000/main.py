@@ -26,6 +26,10 @@ def scrape_books():
 def save_to_csv(df, filename):
     df.to_csv(filename, index=False)
     print(f"Saved data to {filename}")
+    
+    
+    
+# ======================== GCP SPECIFICITY ==========================
 
 # -------- UPLOAD TO GCP --------
 def upload_to_gcs(local_file, bucket_name, destination_blob):

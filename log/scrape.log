@@ -59,3 +59,6 @@ Stacktrace:
 2025-07-02 17:29:03,965 - INFO - \U0001f517 Clicked on 'All Shows' link.
 2025-07-02 17:29:03,966 - INFO - \U0001f6cc Browser closed.
 2025-07-02 17:29:04,424 - INFO - \u2705 Scraping finished at 2025-07-02 17:29:04 (Duration: 16.74 seconds)
+2025-07-07 09:17:36,196 - INFO - \U0001f680 Scraping started at 2025-07-07 09:17:36
+2025-07-07 09:17:38,933 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-07 09:17:43,801 - INFO - \u2705 Scraping finished at 2025-07-07 09:17:43 (Duration: 7.60 seconds)
