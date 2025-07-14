@@ -2793,3 +2793,478 @@ Stacktrace:
 
 2025-07-07 16:24:56,348 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575358)
 2025-07-07 16:24:56,423 - INFO - Successfully saved 134 records to data/ovationtix_events_20250707_162456.csv
+2025-07-14 09:04:10,156 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-14 09:04:15,596 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-07-14 09:04:15,614 - INFO - Page fully loaded
+2025-07-14 09:04:15,614 - INFO - Ready to begin scraping content...
+2025-07-14 09:04:15,615 - INFO - Waiting for calendar button...
+2025-07-14 09:04:15,849 - INFO - Saved screenshot to debug_calendar.png
+2025-07-14 09:04:16,366 - INFO - No popup/modal to dismiss.
+2025-07-14 09:04:20,324 - INFO - Found 1 calendar button(s).
+2025-07-14 09:04:22,164 - INFO - Clicked the 'Calendar' button successfully.
+2025-07-14 09:04:25,326 - INFO - Clicked the second calendar toggle button (Grid View).
+2025-07-14 09:04:50,299 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-14 09:04:54,887 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-07-14 09:04:54,904 - INFO - Page fully loaded
+2025-07-14 09:04:54,904 - INFO - Ready to begin scraping content...
+2025-07-14 09:04:54,904 - INFO - Waiting for calendar button...
+2025-07-14 09:04:55,062 - INFO - Saved screenshot to debug_calendar.png
+2025-07-14 09:04:55,074 - INFO - No popup/modal to dismiss.
+2025-07-14 09:04:59,584 - INFO - Found 1 calendar button(s).
+2025-07-14 09:05:01,222 - INFO - Clicked the 'Calendar' button successfully.
+2025-07-14 09:05:04,596 - INFO - Clicked the second calendar toggle button (Grid View).
+2025-07-14 09:05:04,916 - INFO - Calendar content is visible.
+2025-07-14 09:05:04,916 - INFO - Calendar panel should now be visible.
+2025-07-14 09:05:05,196 - INFO - Event list container is visible.
+2025-07-14 09:05:06,055 - INFO - Clicked 'See this event' on event #1
+2025-07-14 09:05:07,158 - INFO - Extracted title: The Lighthouse Series: Group B
+2025-07-14 09:05:07,263 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(480436)
+2025-07-14 09:05:07,263 - INFO - Extracted event #1 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1158585', 'title': 'The Lighthouse Series: Group B', 'date_times': ['15 July 2025 - 7:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(480436)'}
+2025-07-14 09:05:08,001 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:09,120 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:09,770 - INFO - Clicked 'See this event' on event #2
+2025-07-14 09:05:10,854 - INFO - Extracted title: Pete and Me: A Comedy Show About Autism & Family
+2025-07-14 09:05:11,424 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(569892)
+2025-07-14 09:05:11,424 - INFO - Extracted event #2 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1237116', 'title': 'Pete and Me: A Comedy Show About Autism & Family', 'date_times': ['15 July 2025 - 7:00 pm', '16 July 2025 - 7:00 pm', '17 July 2025 - 7:00 pm', '18 July 2025 - 7:00 pm', '20 July 2025 - 5:00 pm', '22 July 2025 - 7:00 pm', '23 July 2025 - 7:00 pm', '24 July 2025 - 7:00 pm', '25 July 2025 - 7:00 pm', '26 July 2025 - 7:00 pm', '27 July 2025 - 5:00 pm', '30 July 2025 - 7:00 pm', '31 July 2025 - 7:00 pm', '1 August 2025 - 7:00 pm', '2 August 2025 - 7:00 pm', '3 August 2025 - 5:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(569892)'}
+2025-07-14 09:05:12,166 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:13,282 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:13,946 - INFO - Clicked 'See this event' on event #3
+2025-07-14 09:05:15,056 - INFO - Extracted title: The Lighthouse Series: Group C
+2025-07-14 09:05:15,232 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(480437)
+2025-07-14 09:05:15,233 - INFO - Extracted event #3 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1158586', 'title': 'The Lighthouse Series: Group C', 'date_times': ['17 July 2025 - 7:00 pm', '18 July 2025 - 7:00 pm', '19 July 2025 - 7:00 pm', '20 July 2025 - 5:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(480437)'}
+2025-07-14 09:05:15,962 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:17,199 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:17,917 - INFO - Clicked 'See this event' on event #4
+2025-07-14 09:05:19,525 - INFO - Extracted title: Wild Card: A Choose Your Own Adventure Comedy
+2025-07-14 09:05:19,750 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(578834)
+2025-07-14 09:05:19,753 - INFO - Extracted event #4 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1245660', 'title': 'Wild Card: A Choose Your Own Adventure Comedy', 'date_times': ['17 July 2025 - 9:00 pm', '19 July 2025 - 9:00 pm', '23 July 2025 - 9:00 pm', '24 July 2025 - 9:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(578834)'}
+2025-07-14 09:05:20,529 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:21,850 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:22,487 - INFO - Clicked 'See this event' on event #5
+2025-07-14 09:05:23,146 - INFO - Extracted title: Make It Scarier: Horror Reading & Release Party
+2025-07-14 09:05:23,225 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(577513)
+2025-07-14 09:05:23,225 - INFO - Extracted event #5 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1244558', 'title': 'Make It Scarier: Horror Reading & Release Party', 'date_times': ['18 July 2025 - 9:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(577513)'}
+2025-07-14 09:05:23,948 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:25,087 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:25,799 - INFO - Clicked 'See this event' on event #6
+2025-07-14 09:05:27,375 - INFO - Extracted title: Not Family Game Night
+2025-07-14 09:05:27,451 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(543387)
+2025-07-14 09:05:27,451 - INFO - Extracted event #6 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1209316', 'title': 'Not Family Game Night', 'date_times': ['19 July 2025 - 7:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(543387)'}
+2025-07-14 09:05:28,184 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:29,329 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:30,037 - INFO - Clicked 'See this event' on event #7
+2025-07-14 09:05:32,136 - INFO - Extracted title: Morgan Bassichis: Can I Be Frank?
+2025-07-14 09:05:33,772 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575874)
+2025-07-14 09:05:33,773 - INFO - Extracted event #7 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1243249', 'title': 'Morgan Bassichis: Can I Be Frank?', 'date_times': ['24 July 2025 - 7:00 pm', '25 July 2025 - 7:00 pm', '26 July 2025 - 5:00 pm', '26 July 2025 - 8:00 pm', '28 July 2025 - 7:00 pm', '29 July 2025 - 7:00 pm', '30 July 2025 - 7:00 pm', '31 July 2025 - 7:00 pm', '1 August 2025 - 7:00 pm', '2 August 2025 - 5:00 pm', '2 August 2025 - 8:00 pm', '4 August 2025 - 7:00 pm', '5 August 2025 - 7:00 pm', '6 August 2025 - 7:00 pm', '7 August 2025 - 7:00 pm', '8 August 2025 - 7:00 pm', '9 August 2025 - 5:00 pm', '9 August 2025 - 8:00 pm', '11 August 2025 - 7:00 pm', '12 August 2025 - 7:00 pm', '13 August 2025 - 7:00 pm', '14 August 2025 - 7:00 pm', '15 August 2025 - 7:00 pm', '16 August 2025 - 5:00 pm', '16 August 2025 - 8:00 pm', '18 August 2025 - 7:00 pm', '19 August 2025 - 7:00 pm', '20 August 2025 - 7:00 pm', '21 August 2025 - 7:00 pm', '22 August 2025 - 7:00 pm', '23 August 2025 - 5:00 pm', '23 August 2025 - 8:00 pm', '25 August 2025 - 7:00 pm', '26 August 2025 - 7:00 pm', '27 August 2025 - 7:00 pm', '28 August 2025 - 7:00 pm', '29 August 2025 - 7:00 pm', '30 August 2025 - 5:00 pm', '30 August 2025 - 8:00 pm', '31 August 2025 - 5:00 pm', '2 September 2025 - 7:00 pm', '3 September 2025 - 7:00 pm', '4 September 2025 - 7:00 pm', '5 September 2025 - 7:00 pm', '6 September 2025 - 5:00 pm', '6 September 2025 - 8:00 pm', '8 September 2025 - 7:00 pm', '9 September 2025 - 7:00 pm', '10 September 2025 - 7:00 pm', '11 September 2025 - 7:00 pm', '12 September 2025 - 7:00 pm', '13 September 2025 - 5:00 pm', '13 September 2025 - 8:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(575874)'}
+2025-07-14 09:05:34,560 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:35,682 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:36,391 - INFO - Clicked 'See this event' on event #8
+2025-07-14 09:05:37,972 - INFO - Extracted title: The Zack & Ro Show
+2025-07-14 09:05:38,056 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(580037)
+2025-07-14 09:05:38,057 - INFO - Extracted event #8 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1218897', 'title': 'The Zack & Ro Show', 'date_times': ['25 July 2025 - 9:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(580037)'}
+2025-07-14 09:05:38,749 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:39,856 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:40,608 - INFO - Clicked 'See this event' on event #9
+2025-07-14 09:05:42,281 - INFO - Extracted title: Bill Posley's The Day I Accidentally Went to War
+2025-07-14 09:05:43,072 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(577065)
+2025-07-14 09:05:43,072 - INFO - Extracted event #9 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1218896', 'title': "Bill Posley's The Day I Accidentally Went to War", 'date_times': ['6 August 2025 - 7:00 pm', '7 August 2025 - 7:00 pm', '8 August 2025 - 7:00 pm', '9 August 2025 - 8:00 pm', '13 August 2025 - 7:00 pm', '14 August 2025 - 7:00 pm', '15 August 2025 - 7:00 pm', '16 August 2025 - 8:00 pm', '17 August 2025 - 5:00 pm', '20 August 2025 - 7:00 pm', '21 August 2025 - 7:00 pm', '22 August 2025 - 7:00 pm', '23 August 2025 - 5:00 pm', '23 August 2025 - 8:00 pm', '24 August 2025 - 5:00 pm', '27 August 2025 - 7:00 pm', '28 August 2025 - 7:00 pm', '29 August 2025 - 7:00 pm', '30 August 2025 - 5:00 pm', '30 August 2025 - 8:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(577065)'}
+2025-07-14 09:05:43,769 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:44,889 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:45,581 - INFO - Clicked 'See this event' on event #10
+2025-07-14 09:05:47,211 - INFO - Extracted title: Good Showbiz
+2025-07-14 09:05:47,408 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(580335)
+2025-07-14 09:05:47,408 - INFO - Extracted event #10 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1244633', 'title': 'Good Showbiz', 'date_times': ['12 August 2025 - 9:00 pm', '13 August 2025 - 9:00 pm', '19 August 2025 - 9:00 pm', '20 August 2025 - 9:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(580335)'}
+2025-07-14 09:05:48,074 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:49,183 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:49,909 - INFO - Clicked 'See this event' on event #11
+2025-07-14 09:05:51,004 - INFO - Extracted title: Unreal Magic: a night of mind-bending illusion
+2025-07-14 09:05:51,071 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(573952)
+2025-07-14 09:05:51,071 - INFO - Extracted event #11 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1241190', 'title': 'Unreal Magic: a night of mind-bending illusion', 'date_times': ['22 August 2025 - 9:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(573952)'}
+2025-07-14 09:05:51,745 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:52,853 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:53,531 - INFO - Clicked 'See this event' on event #12
+2025-07-14 09:05:54,624 - INFO - Extracted title: Kyle Ayers: Hard to Say
+2025-07-14 09:05:55,142 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575376)
+2025-07-14 09:05:55,142 - INFO - Extracted event #12 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1242797', 'title': 'Kyle Ayers: Hard to Say', 'date_times': ['4 September 2025 - 7:00 pm', '5 September 2025 - 7:00 pm', '6 September 2025 - 7:00 pm', '7 September 2025 - 5:00 pm', '8 September 2025 - 7:00 pm', '9 September 2025 - 7:00 pm', '10 September 2025 - 7:00 pm', '11 September 2025 - 7:00 pm', '12 September 2025 - 7:00 pm', '13 September 2025 - 7:00 pm', '14 September 2025 - 5:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(575376)'}
+2025-07-14 09:05:55,846 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:05:56,956 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:05:57,679 - INFO - Clicked 'See this event' on event #13
+2025-07-14 09:05:59,804 - INFO - Extracted title: Lou Wall - Breaking The Fifth Wall
+2025-07-14 09:06:00,398 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579885)
+2025-07-14 09:06:00,398 - INFO - Extracted event #13 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1246459', 'title': 'Lou Wall - Breaking The Fifth Wall', 'date_times': ['17 September 2025 - 9:00 pm', '18 September 2025 - 9:00 pm', '19 September 2025 - 9:00 pm', '20 September 2025 - 9:00 pm', '21 September 2025 - 7:00 pm', '24 September 2025 - 9:00 pm', '25 September 2025 - 9:00 pm', '26 September 2025 - 9:00 pm', '27 September 2025 - 9:00 pm', '28 September 2025 - 7:00 pm', '1 October 2025 - 9:00 pm', '2 October 2025 - 9:00 pm', '3 October 2025 - 9:00 pm', '4 October 2025 - 9:00 pm', '5 October 2025 - 7:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(579885)'}
+2025-07-14 09:06:01,096 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:02,206 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:02,900 - INFO - Clicked 'See this event' on event #14
+2025-07-14 09:06:04,573 - INFO - Extracted title: (un)conditional
+2025-07-14 09:06:05,736 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579639)
+2025-07-14 09:06:05,736 - INFO - Extracted event #14 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1246302', 'title': '(un)conditional', 'date_times': ['18 September 2025 - 7:00 pm', '19 September 2025 - 7:00 pm', '20 September 2025 - 7:00 pm', '21 September 2025 - 5:00 pm', '22 September 2025 - 7:00 pm', '24 September 2025 - 7:00 pm', '25 September 2025 - 7:00 pm', '26 September 2025 - 7:00 pm', '27 September 2025 - 7:00 pm', '28 September 2025 - 5:00 pm', '29 September 2025 - 7:00 pm', '1 October 2025 - 7:00 pm', '2 October 2025 - 7:00 pm', '3 October 2025 - 7:00 pm', '4 October 2025 - 7:00 pm', '5 October 2025 - 5:00 pm', '6 October 2025 - 7:00 pm', '8 October 2025 - 7:00 pm', '9 October 2025 - 7:00 pm', '10 October 2025 - 7:00 pm', '11 October 2025 - 7:00 pm', '12 October 2025 - 5:00 pm', '13 October 2025 - 7:00 pm', '15 October 2025 - 7:00 pm', '16 October 2025 - 7:00 pm', '17 October 2025 - 7:00 pm', '18 October 2025 - 7:00 pm', '19 October 2025 - 5:00 pm', '20 October 2025 - 7:00 pm', '22 October 2025 - 7:00 pm', '23 October 2025 - 7:00 pm', '24 October 2025 - 7:00 pm', '25 October 2025 - 7:00 pm', '26 October 2025 - 5:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(579639)'}
+2025-07-14 09:06:06,409 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:07,519 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:08,188 - INFO - Clicked 'See this event' on event #15
+2025-07-14 09:06:10,297 - INFO - Extracted title: Daniel Sloss: Work In Progress
+2025-07-14 09:06:10,697 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(568760)
+2025-07-14 09:06:10,698 - INFO - Extracted event #15 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1236104', 'title': 'Daniel Sloss: Work In Progress', 'date_times': ['28 October 2025 - 7:30 pm', '29 October 2025 - 7:30 pm', '30 October 2025 - 7:30 pm', '30 October 2025 - 9:00 pm', '1 November 2025 - 5:30 pm', '1 November 2025 - 7:30 pm', '2 November 2025 - 5:30 pm', '2 November 2025 - 7:30 pm', '4 November 2025 - 7:30 pm', '5 November 2025 - 7:30 pm', '6 November 2025 - 7:30 pm', '6 November 2025 - 9:00 pm', '7 November 2025 - 7:30 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(568760)'}
+2025-07-14 09:06:11,387 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:12,526 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:13,252 - INFO - Clicked 'See this event' on event #16
+2025-07-14 09:06:14,336 - INFO - Extracted title: Connor Burns: GALLUS
+2025-07-14 09:06:14,553 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(571345)
+2025-07-14 09:06:14,553 - INFO - Extracted event #16 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1238279', 'title': 'Connor Burns: GALLUS', 'date_times': ['5 November 2025 - 9:00 pm', '6 November 2025 - 9:00 pm', '7 November 2025 - 9:00 pm', '8 November 2025 - 9:00 pm', '9 November 2025 - 5:30 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(571345)'}
+2025-07-14 09:06:15,242 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:16,343 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:17,082 - INFO - Clicked 'See this event' on event #17
+2025-07-14 09:06:19,224 - INFO - Extracted title: Caitlin
+2025-07-14 09:06:19,437 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579878)
+2025-07-14 09:06:19,437 - INFO - Extracted event #17 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1246457', 'title': 'Caitlin', 'date_times': ['12 November 2025 - 7:00 pm', '13 November 2025 - 7:00 pm', '14 November 2025 - 7:00 pm', '15 November 2025 - 7:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(579878)'}
+2025-07-14 09:06:20,142 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:21,253 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:21,971 - INFO - Clicked 'See this event' on event #18
+2025-07-14 09:06:23,043 - INFO - Extracted title: Miles Jupp: On I Bang (a story about brain surgery)
+2025-07-14 09:06:23,307 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575358)
+2025-07-14 09:06:23,308 - INFO - Extracted event #18 details: {'event_url': 'https://ci.ovationtix.com/35583/production/1242783', 'title': 'Miles Jupp: On I Bang (a story about brain surgery)', 'date_times': ['18 November 2025 - 7:00 pm', '19 November 2025 - 7:00 pm', '20 November 2025 - 7:00 pm', '21 November 2025 - 7:00 pm', '22 November 2025 - 7:00 pm', '23 November 2025 - 5:00 pm'], 'image_url': 'https://web.ovationtix.com/trs/api/rest/ClientFile(575358)'}
+2025-07-14 09:06:24,108 - INFO - Re-clicked the second calendar toggle button (via JS).
+2025-07-14 09:06:25,215 - INFO - Calendar content (.ot_prodListContainer) is visible again after returning.
+2025-07-14 09:06:25,224 - INFO - Successfully extracted 18 event URLs.
+2025-07-14 09:06:25,225 - INFO - → https://ci.ovationtix.com/35583/production/1158585
+2025-07-14 09:06:25,226 - INFO - → https://ci.ovationtix.com/35583/production/1237116
+2025-07-14 09:06:25,226 - INFO - → https://ci.ovationtix.com/35583/production/1158586
+2025-07-14 09:06:25,226 - INFO - → https://ci.ovationtix.com/35583/production/1245660
+2025-07-14 09:06:25,226 - INFO - → https://ci.ovationtix.com/35583/production/1244558
+2025-07-14 09:06:25,226 - INFO - → https://ci.ovationtix.com/35583/production/1209316
+2025-07-14 09:06:25,227 - INFO - → https://ci.ovationtix.com/35583/production/1243249
+2025-07-14 09:06:25,228 - INFO - → https://ci.ovationtix.com/35583/production/1218897
+2025-07-14 09:06:25,228 - INFO - → https://ci.ovationtix.com/35583/production/1218896
+2025-07-14 09:06:25,228 - INFO - → https://ci.ovationtix.com/35583/production/1244633
+2025-07-14 09:06:25,228 - INFO - → https://ci.ovationtix.com/35583/production/1241190
+2025-07-14 09:06:25,229 - INFO - → https://ci.ovationtix.com/35583/production/1242797
+2025-07-14 09:06:25,229 - INFO - → https://ci.ovationtix.com/35583/production/1246459
+2025-07-14 09:06:25,229 - INFO - → https://ci.ovationtix.com/35583/production/1246302
+2025-07-14 09:06:25,230 - INFO - → https://ci.ovationtix.com/35583/production/1236104
+2025-07-14 09:06:25,231 - INFO - → https://ci.ovationtix.com/35583/production/1238279
+2025-07-14 09:06:25,232 - INFO - → https://ci.ovationtix.com/35583/production/1246457
+2025-07-14 09:06:25,232 - INFO - → https://ci.ovationtix.com/35583/production/1242783
+2025-07-14 09:06:40,733 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:06:40,766 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(480436)
+2025-07-14 09:06:56,472 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:06:57,114 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(569892)
+2025-07-14 09:07:12,009 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:07:12,255 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(480437)
+2025-07-14 09:07:19,690 - INFO - Extracted title: Wild Card: A Choose Your Own Adventure Comedy
+2025-07-14 09:07:19,883 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(578834)
+2025-07-14 09:07:25,101 - INFO - Extracted title: Make It Scarier: Horror Reading & Release Party
+2025-07-14 09:07:25,159 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(577513)
+2025-07-14 09:07:30,101 - INFO - Extracted title: Not Family Game Night
+2025-07-14 09:07:30,163 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(543387)
+2025-07-14 09:07:35,525 - INFO - Extracted title: Morgan Bassichis: Can I Be Frank?
+2025-07-14 09:07:37,266 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575874)
+2025-07-14 09:07:42,650 - INFO - Extracted title: The Zack & Ro Show
+2025-07-14 09:07:42,725 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(580037)
+2025-07-14 09:07:48,336 - INFO - Extracted title: Bill Posley's The Day I Accidentally Went to War
+2025-07-14 09:07:49,065 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(577065)
+2025-07-14 09:08:03,666 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:08:03,866 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(580335)
+2025-07-14 09:08:19,287 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:08:19,311 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(573952)
+2025-07-14 09:08:34,692 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:08:35,258 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575376)
+2025-07-14 09:08:50,382 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:08:50,968 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579885)
+2025-07-14 09:09:06,391 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:09:07,741 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579639)
+2025-07-14 09:09:23,129 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:09:23,555 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(568760)
+2025-07-14 09:09:39,042 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:09:39,533 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(571345)
+2025-07-14 09:09:55,501 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:09:55,748 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(579878)
+2025-07-14 09:10:11,844 - WARNING - Failed to extract title: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7144a3+62419]
+	GetHandleVerifier [0x0x7144e4+62484]
+	(No symbol) [0x0x552133]
+	(No symbol) [0x0x59a8fe]
+	(No symbol) [0x0x59ac9b]
+	(No symbol) [0x0x5e3052]
+	(No symbol) [0x0x5bf4b4]
+	(No symbol) [0x0x5e087a]
+	(No symbol) [0x0x5bf266]
+	(No symbol) [0x0x58e852]
+	(No symbol) [0x0x58f6f4]
+	GetHandleVerifier [0x0x984793+2619075]
+	GetHandleVerifier [0x0x97fbaa+2599642]
+	GetHandleVerifier [0x0x73b04a+221050]
+	GetHandleVerifier [0x0x72b2c8+156152]
+	GetHandleVerifier [0x0x731c7d+183213]
+	GetHandleVerifier [0x0x71c388+94904]
+	GetHandleVerifier [0x0x71c512+95298]
+	GetHandleVerifier [0x0x70766a+9626]
+	BaseThreadInitThunk [0x0x76087ba9+25]
+	RtlInitializeExceptionChain [0x0x7728c3ab+107]
+	RtlClearBits [0x0x7728c32f+191]
+
+2025-07-14 09:10:12,176 - INFO - Extracted image URL: https://web.ovationtix.com/trs/api/rest/ClientFile(575358)
+2025-07-14 09:10:12,236 - INFO - Successfully saved 192 records to data/tnny_events_20250714_091012.csv

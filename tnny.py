@@ -110,7 +110,7 @@ def click_calendar_button(driver):
         driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", calendar_btn)
         time.sleep(0.5)
         driver.execute_script("arguments[0].click();", calendar_btn)
-        logging.info("Clicked the 'Calendar' button successfully.")
+        logging.info("👍 Clicked the 'Calendar' button successfully.")
 
         # Wait for toggle buttons to appear
         WebDriverWait(driver, 15).until(
@@ -378,7 +378,7 @@ def main():
         # Step 8: Save results to CSV if data was collected
         if all_events:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"data/ovationtix_events_{timestamp}.csv"
+            filename = f"data/tnny_events_{timestamp}.csv"
             os.makedirs("data", exist_ok=True)
             with open(filename, mode="w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(
