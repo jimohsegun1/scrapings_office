@@ -19305,3 +19305,428 @@ Stacktrace:
 2025-07-18 10:47:12,207 - INFO - \U0001f3db\ufe0f Venue: The  Center
 2025-07-18 10:47:12,208 - INFO - \U0001f30d Market Presence: US
 2025-07-18 10:47:15,584 - INFO - [46] \u27a1\ufe0f  Opened detail page for Dilaria
+2025-07-18 10:47:17,646 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Dilaria
+2025-07-18 10:47:19,869 - INFO - \U0001f4c5 Dilaria — 2025-07-18 at 8:00pm (active)
+2025-07-18 10:47:19,896 - INFO - \U0001f4c5 Dilaria — 2025-07-19 at 5:00pm (upcoming)
+2025-07-18 10:47:19,917 - INFO - \U0001f4c5 Dilaria — 2025-07-19 at 9:00pm (upcoming)
+2025-07-18 10:47:19,943 - INFO - \U0001f4c5 Dilaria — 2025-07-20 at 3:00pm (upcoming)
+2025-07-18 10:47:19,965 - INFO - \U0001f4c5 Dilaria — 2025-07-20 at 7:00pm (upcoming)
+2025-07-18 10:47:19,987 - INFO - \U0001f4c5 Dilaria — 2025-07-22 at 8:00pm (upcoming)
+2025-07-18 10:47:20,016 - INFO - \U0001f4c5 Dilaria — 2025-07-23 at 8:00pm (upcoming)
+2025-07-18 10:47:20,036 - INFO - \U0001f4c5 Dilaria — 2025-07-24 at 8:00pm (upcoming)
+2025-07-18 10:47:20,066 - INFO - \U0001f4c5 Dilaria — 2025-07-25 at 8:00pm (upcoming)
+2025-07-18 10:47:20,088 - INFO - \U0001f4c5 Dilaria — 2025-07-26 at 5:00pm (upcoming)
+2025-07-18 10:47:20,118 - INFO - \U0001f4c5 Dilaria — 2025-07-26 at 9:00pm (upcoming)
+2025-07-18 10:47:20,144 - INFO - \U0001f4c5 Dilaria — 2025-07-27 at 3:00pm (upcoming)
+2025-07-18 10:47:20,166 - INFO - \U0001f4c5 Dilaria — 2025-07-27 at 7:00pm (upcoming)
+2025-07-18 10:47:20,186 - INFO - \U0001f4c5 Dilaria — 2025-07-29 at 8:00pm (upcoming)
+2025-07-18 10:47:20,213 - INFO - \U0001f4c5 Dilaria — 2025-07-30 at 8:00pm (upcoming)
+2025-07-18 10:47:20,235 - INFO - \U0001f4c5 Dilaria — 2025-07-31 at 8:00pm (upcoming)
+2025-07-18 10:47:22,520 - INFO - \U0001f4c5 Dilaria — 2025-08-01 at 8:00pm (upcoming)
+2025-07-18 10:47:22,542 - INFO - \U0001f4c5 Dilaria — 2025-08-02 at 5:00pm (upcoming)
+2025-07-18 10:47:22,566 - INFO - \U0001f4c5 Dilaria — 2025-08-02 at 9:00pm (upcoming)
+2025-07-18 10:47:22,597 - INFO - \U0001f4c5 Dilaria — 2025-08-03 at 3:00pm (upcoming)
+2025-07-18 10:47:22,616 - INFO - \U0001f4c5 Dilaria — 2025-08-03 at 7:00pm (upcoming)
+2025-07-18 10:47:22,634 - INFO - \U0001f4c5 Dilaria — 2025-08-05 at 8:00pm (upcoming)
+2025-07-18 10:47:22,652 - INFO - \U0001f4c5 Dilaria — 2025-08-06 at 8:00pm (upcoming)
+2025-07-18 10:47:22,676 - INFO - \U0001f4c5 Dilaria — 2025-08-07 at 8:00pm (upcoming)
+2025-07-18 10:47:22,695 - INFO - \U0001f4c5 Dilaria — 2025-08-08 at 4:00pm (upcoming)
+2025-07-18 10:47:22,713 - INFO - \U0001f4c5 Dilaria — 2025-08-08 at 8:00pm (upcoming)
+2025-07-18 10:47:22,729 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:47:22,902 - INFO - [46] \u27a1\ufe0f  Back to detail page for Dilaria
+2025-07-18 10:47:25,484 - INFO - \u2705 'Categories' section found for Dilaria
+2025-07-18 10:47:25,859 - INFO - \U0001f3ad Production Type for 'Dilaria': N/A
+2025-07-18 10:47:25,861 - INFO - \U0001f50d'Origin' for Dilaria is N/A 
+2025-07-18 10:47:25,919 - INFO - \U0001f4c5 Raw show dates text for Dilaria: Previews: Jun 13, 2025 • Opening: Jun 18, 2025 • Closing: Aug 8, 2025
+2025-07-18 10:47:25,920 - INFO - \U0001f3ad Production age for 'Dilaria': 0 year(s)
+2025-07-18 10:47:25,976 - INFO - \U0001f3db\ufe0f Venue: DR2
+2025-07-18 10:47:25,978 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:47:28,350 - INFO - [47] \u27a1\ufe0f  Opened detail page for The Office! A Musical Parody
+2025-07-18 10:47:32,351 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for The Office! A Musical Parody
+2025-07-18 10:47:35,830 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-18 at 7:00pm (active)
+2025-07-18 10:47:35,846 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-19 at 4:00pm (upcoming)
+2025-07-18 10:47:35,865 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-24 at 7:30pm (upcoming)
+2025-07-18 10:47:35,892 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-25 at 7:00pm (upcoming)
+2025-07-18 10:47:35,917 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-26 at 4:00pm (upcoming)
+2025-07-18 10:47:35,940 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-07-31 at 7:30pm (upcoming)
+2025-07-18 10:47:38,160 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-08-01 at 7:00pm (upcoming)
+2025-07-18 10:47:38,179 - INFO - \U0001f4c5 The Office! A Musical Parody — 2025-08-02 at 4:00pm (upcoming)
+2025-07-18 10:47:38,200 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:47:38,468 - INFO - [47] \u27a1\ufe0f  Back to detail page for The Office! A Musical Parody
+2025-07-18 10:47:40,478 - INFO - \u2705 'Categories' section found for The Office! A Musical Parody
+2025-07-18 10:47:40,533 - INFO - \U0001f3ad Production Type for 'The Office! A Musical Parody': Musicals
+2025-07-18 10:47:40,533 - INFO - \U0001f50d'Origin' for The Office! A Musical Parody is N/A 
+2025-07-18 10:47:40,586 - INFO - \U0001f4c5 Raw show dates text for The Office! A Musical Parody: Previews: Apr 9, 2021
+2025-07-18 10:47:40,591 - INFO - \u26a0\ufe0f No opening date found for The Office! A Musical Parody
+2025-07-18 10:47:40,634 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:47:40,634 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:47:42,217 - INFO - [48] \u27a1\ufe0f  Opened detail page for Perfect Crime
+2025-07-18 10:47:43,825 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Perfect Crime
+2025-07-18 10:47:47,466 - INFO - \U0001f4c5 Perfect Crime — 2025-07-18 at 8:00pm (active)
+2025-07-18 10:47:47,484 - INFO - \U0001f4c5 Perfect Crime — 2025-07-19 at 2:00pm (upcoming)
+2025-07-18 10:47:47,510 - INFO - \U0001f4c5 Perfect Crime — 2025-07-19 at 8:00pm (upcoming)
+2025-07-18 10:47:47,531 - INFO - \U0001f4c5 Perfect Crime — 2025-07-20 at 3:00pm (upcoming)
+2025-07-18 10:47:47,554 - INFO - \U0001f4c5 Perfect Crime — 2025-07-20 at 7:30pm (upcoming)
+2025-07-18 10:47:47,579 - INFO - \U0001f4c5 Perfect Crime — 2025-07-21 at 8:00pm (upcoming)
+2025-07-18 10:47:47,598 - INFO - \U0001f4c5 Perfect Crime — 2025-07-22 at 8:00pm (upcoming)
+2025-07-18 10:47:47,617 - INFO - \U0001f4c5 Perfect Crime — 2025-07-24 at 8:00pm (upcoming)
+2025-07-18 10:47:47,636 - INFO - \U0001f4c5 Perfect Crime — 2025-07-25 at 8:00pm (upcoming)
+2025-07-18 10:47:47,660 - INFO - \U0001f4c5 Perfect Crime — 2025-07-26 at 2:00pm (upcoming)
+2025-07-18 10:47:47,677 - INFO - \U0001f4c5 Perfect Crime — 2025-07-26 at 8:00pm (upcoming)
+2025-07-18 10:47:47,696 - INFO - \U0001f4c5 Perfect Crime — 2025-07-27 at 3:00pm (upcoming)
+2025-07-18 10:47:47,714 - INFO - \U0001f4c5 Perfect Crime — 2025-07-27 at 7:30pm (upcoming)
+2025-07-18 10:47:47,733 - INFO - \U0001f4c5 Perfect Crime — 2025-07-28 at 8:00pm (upcoming)
+2025-07-18 10:47:47,752 - INFO - \U0001f4c5 Perfect Crime — 2025-07-29 at 8:00pm (upcoming)
+2025-07-18 10:47:47,770 - INFO - \U0001f4c5 Perfect Crime — 2025-07-31 at 8:00pm (upcoming)
+2025-07-18 10:47:50,481 - INFO - \U0001f4c5 Perfect Crime — 2025-08-01 at 8:00pm (upcoming)
+2025-07-18 10:47:50,501 - INFO - \U0001f4c5 Perfect Crime — 2025-08-02 at 2:00pm (upcoming)
+2025-07-18 10:47:50,530 - INFO - \U0001f4c5 Perfect Crime — 2025-08-02 at 8:00pm (upcoming)
+2025-07-18 10:47:50,551 - INFO - \U0001f4c5 Perfect Crime — 2025-08-03 at 3:00pm (upcoming)
+2025-07-18 10:47:50,575 - INFO - \U0001f4c5 Perfect Crime — 2025-08-03 at 7:30pm (upcoming)
+2025-07-18 10:47:50,594 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:47:50,718 - INFO - [48] \u27a1\ufe0f  Back to detail page for Perfect Crime
+2025-07-18 10:47:52,730 - INFO - \u2705 'Categories' section found for Perfect Crime
+2025-07-18 10:47:52,750 - INFO - \U0001f3ad Production Type for 'Perfect Crime': N/A
+2025-07-18 10:47:52,750 - INFO - \U0001f50d'Origin' for Perfect Crime is N/A 
+2025-07-18 10:47:52,769 - INFO - \u26a0\ufe0f Could not find 'Show Dates' section for Perfect Crime: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()="Show Dates"]"}
+  (Session info: chrome=138.0.7204.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:47:52,824 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:47:52,825 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:47:54,468 - INFO - [49] \u27a1\ufe0f  Opened detail page for Jeff Ross: Take A Banana For The Ride
+2025-07-18 10:47:56,242 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Jeff Ross: Take A Banana For The Ride
+2025-07-18 10:47:59,157 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-05 at 7:30pm (upcoming)
+2025-07-18 10:47:59,178 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-06 at 7:30pm (upcoming)
+2025-07-18 10:47:59,199 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-07 at 3:00pm (upcoming)
+2025-07-18 10:47:59,224 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-07 at 7:30pm (upcoming)
+2025-07-18 10:47:59,248 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-08 at 7:30pm (upcoming)
+2025-07-18 10:47:59,269 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-09 at 3:00pm (upcoming)
+2025-07-18 10:47:59,291 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-09 at 7:30pm (upcoming)
+2025-07-18 10:47:59,308 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-11 at 7:30pm (upcoming)
+2025-07-18 10:47:59,329 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-12 at 7:30pm (upcoming)
+2025-07-18 10:47:59,347 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-13 at 7:30pm (upcoming)
+2025-07-18 10:47:59,365 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-14 at 7:30pm (upcoming)
+2025-07-18 10:47:59,382 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-15 at 3:00pm (upcoming)
+2025-07-18 10:47:59,402 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-15 at 7:30pm (upcoming)
+2025-07-18 10:47:59,419 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-16 at 3:00pm (upcoming)
+2025-07-18 10:47:59,435 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-16 at 7:30pm (upcoming)
+2025-07-18 10:47:59,453 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-19 at 7:30pm (upcoming)
+2025-07-18 10:47:59,479 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-20 at 3:00pm (upcoming)
+2025-07-18 10:47:59,497 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-20 at 7:30pm (upcoming)
+2025-07-18 10:47:59,516 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-21 at 7:30pm (upcoming)
+2025-07-18 10:47:59,533 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-22 at 7:30pm (upcoming)
+2025-07-18 10:47:59,551 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-23 at 3:00pm (upcoming)
+2025-07-18 10:47:59,569 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-23 at 7:30pm (upcoming)
+2025-07-18 10:47:59,592 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-25 at 7:30pm (upcoming)
+2025-07-18 10:47:59,610 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-26 at 7:30pm (upcoming)
+2025-07-18 10:47:59,628 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-27 at 3:00pm (upcoming)
+2025-07-18 10:47:59,646 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-27 at 7:30pm (upcoming)
+2025-07-18 10:47:59,663 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-28 at 7:30pm (upcoming)
+2025-07-18 10:47:59,681 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-29 at 7:30pm (upcoming)
+2025-07-18 10:47:59,699 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-30 at 3:00pm (upcoming)
+2025-07-18 10:47:59,717 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-08-30 at 7:30pm (upcoming)
+2025-07-18 10:48:02,783 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-02 at 7:30pm (upcoming)
+2025-07-18 10:48:02,799 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-03 at 7:30pm (upcoming)
+2025-07-18 10:48:02,828 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-04 at 7:30pm (upcoming)
+2025-07-18 10:48:02,848 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-05 at 7:30pm (upcoming)
+2025-07-18 10:48:02,867 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-06 at 3:00pm (upcoming)
+2025-07-18 10:48:02,884 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-06 at 7:30pm (upcoming)
+2025-07-18 10:48:02,911 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-07 at 3:00pm (upcoming)
+2025-07-18 10:48:02,933 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-07 at 7:30pm (upcoming)
+2025-07-18 10:48:02,952 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-08 at 7:30pm (upcoming)
+2025-07-18 10:48:02,975 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-10 at 7:30pm (upcoming)
+2025-07-18 10:48:02,993 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-11 at 7:30pm (upcoming)
+2025-07-18 10:48:03,013 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-12 at 7:30pm (upcoming)
+2025-07-18 10:48:03,037 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-13 at 3:00pm (upcoming)
+2025-07-18 10:48:03,059 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-13 at 7:30pm (upcoming)
+2025-07-18 10:48:03,078 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-14 at 3:00pm (upcoming)
+2025-07-18 10:48:03,096 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-14 at 7:30pm (upcoming)
+2025-07-18 10:48:03,117 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-15 at 7:30pm (upcoming)
+2025-07-18 10:48:03,146 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-17 at 7:30pm (upcoming)
+2025-07-18 10:48:03,170 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-18 at 7:30pm (upcoming)
+2025-07-18 10:48:03,201 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-19 at 7:30pm (upcoming)
+2025-07-18 10:48:03,233 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-20 at 3:00pm (upcoming)
+2025-07-18 10:48:03,260 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-20 at 7:30pm (upcoming)
+2025-07-18 10:48:03,279 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-21 at 3:00pm (upcoming)
+2025-07-18 10:48:03,297 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-21 at 7:30pm (upcoming)
+2025-07-18 10:48:03,315 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-22 at 7:30pm (upcoming)
+2025-07-18 10:48:03,337 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-24 at 7:30pm (upcoming)
+2025-07-18 10:48:03,363 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-25 at 7:30pm (upcoming)
+2025-07-18 10:48:03,386 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-26 at 7:30pm (upcoming)
+2025-07-18 10:48:03,404 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-27 at 3:00pm (upcoming)
+2025-07-18 10:48:03,426 - INFO - \U0001f4c5 Jeff Ross: Take A Banana For The Ride — 2025-09-27 at 7:30pm (upcoming)
+2025-07-18 10:48:03,478 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:48:03,607 - INFO - [49] \u27a1\ufe0f  Back to detail page for Jeff Ross: Take A Banana For The Ride
+2025-07-18 10:48:05,624 - INFO - \u2705 'Categories' section found for Jeff Ross: Take A Banana For The Ride
+2025-07-18 10:48:05,669 - INFO - \U0001f3ad Production Type for 'Jeff Ross: Take A Banana For The Ride': N/A
+2025-07-18 10:48:05,669 - INFO - \U0001f50d'Origin' for Jeff Ross: Take A Banana For The Ride is N/A 
+2025-07-18 10:48:05,714 - INFO - \U0001f4c5 Raw show dates text for Jeff Ross: Take A Banana For The Ride: Previews: Aug 5, 2025 • Opening: Aug 18, 2025 • Closing: Sep 28, 2025
+2025-07-18 10:48:05,715 - INFO - \U0001f553 'Jeff Ross: Take A Banana For The Ride' has not opened yet. Age: Upcoming
+2025-07-18 10:48:05,753 - INFO - \U0001f3db\ufe0f Venue: Nederlander
+2025-07-18 10:48:05,754 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:48:07,415 - INFO - [50] \u27a1\ufe0f  Opened detail page for Lord Nil: 7 Deadly Sins
+2025-07-18 10:48:09,584 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Lord Nil: 7 Deadly Sins
+2025-07-18 10:48:11,910 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-21 at 7:30pm (upcoming)
+2025-07-18 10:48:11,931 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-22 at 7:30pm (upcoming)
+2025-07-18 10:48:11,954 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-24 at 7:30pm (upcoming)
+2025-07-18 10:48:11,979 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-25 at 8:30pm (upcoming)
+2025-07-18 10:48:11,999 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-26 at 3:30pm (upcoming)
+2025-07-18 10:48:12,017 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-26 at 8:30pm (upcoming)
+2025-07-18 10:48:12,036 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-27 at 3:30pm (upcoming)
+2025-07-18 10:48:12,060 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-28 at 7:30pm (upcoming)
+2025-07-18 10:48:12,078 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-29 at 7:30pm (upcoming)
+2025-07-18 10:48:12,096 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-31 at 3:30pm (upcoming)
+2025-07-18 10:48:12,115 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-07-31 at 7:30pm (upcoming)
+2025-07-18 10:48:15,142 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-01 at 8:30pm (upcoming)
+2025-07-18 10:48:15,164 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-02 at 3:30pm (upcoming)
+2025-07-18 10:48:15,185 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-02 at 8:30pm (upcoming)
+2025-07-18 10:48:15,211 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-03 at 3:30pm (upcoming)
+2025-07-18 10:48:15,230 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-04 at 7:30pm (upcoming)
+2025-07-18 10:48:15,250 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-05 at 7:30pm (upcoming)
+2025-07-18 10:48:15,276 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-07 at 3:30pm (upcoming)
+2025-07-18 10:48:15,295 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-07 at 7:30pm (upcoming)
+2025-07-18 10:48:15,315 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-08 at 8:30pm (upcoming)
+2025-07-18 10:48:15,332 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-09 at 3:30pm (upcoming)
+2025-07-18 10:48:15,351 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-09 at 8:30pm (upcoming)
+2025-07-18 10:48:15,369 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-10 at 3:30pm (upcoming)
+2025-07-18 10:48:15,516 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-11 at 7:30pm (upcoming)
+2025-07-18 10:48:15,531 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-12 at 7:30pm (upcoming)
+2025-07-18 10:48:15,549 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-14 at 3:30pm (upcoming)
+2025-07-18 10:48:15,567 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-14 at 7:30pm (upcoming)
+2025-07-18 10:48:15,584 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-15 at 8:30pm (upcoming)
+2025-07-18 10:48:15,602 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-16 at 3:30pm (upcoming)
+2025-07-18 10:48:15,625 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-16 at 8:30pm (upcoming)
+2025-07-18 10:48:15,643 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-17 at 3:30pm (upcoming)
+2025-07-18 10:48:15,659 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-18 at 7:30pm (upcoming)
+2025-07-18 10:48:15,676 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-19 at 7:30pm (upcoming)
+2025-07-18 10:48:15,694 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-21 at 3:30pm (upcoming)
+2025-07-18 10:48:15,713 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-21 at 7:30pm (upcoming)
+2025-07-18 10:48:15,731 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-22 at 8:30pm (upcoming)
+2025-07-18 10:48:15,750 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-23 at 3:30pm (upcoming)
+2025-07-18 10:48:15,767 - INFO - \U0001f4c5 Lord Nil: 7 Deadly Sins — 2025-08-23 at 8:30pm (upcoming)
+2025-07-18 10:48:15,937 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:48:16,098 - INFO - [50] \u27a1\ufe0f  Back to detail page for Lord Nil: 7 Deadly Sins
+2025-07-18 10:48:18,115 - INFO - \u2705 'Categories' section found for Lord Nil: 7 Deadly Sins
+2025-07-18 10:48:18,151 - INFO - \U0001f3ad Production Type for 'Lord Nil: 7 Deadly Sins': N/A
+2025-07-18 10:48:18,151 - INFO - \U0001f50d'Origin' for Lord Nil: 7 Deadly Sins is N/A 
+2025-07-18 10:48:18,177 - INFO - \u26a0\ufe0f Could not find 'Show Dates' section for Lord Nil: 7 Deadly Sins: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()="Show Dates"]"}
+  (Session info: chrome=138.0.7204.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:48:18,224 - INFO - \U0001f3db\ufe0f Venue: Stage 42
+2025-07-18 10:48:18,224 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:48:19,968 - INFO - [51] \u27a1\ufe0f  Opened detail page for Call Me Izzy
+2025-07-18 10:48:21,821 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Call Me Izzy
+2025-07-18 10:48:25,823 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-18 at 7:00pm (active)
+2025-07-18 10:48:25,844 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-20 at 2:00pm (upcoming)
+2025-07-18 10:48:25,869 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-22 at 7:00pm (upcoming)
+2025-07-18 10:48:25,902 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-23 at 2:00pm (upcoming)
+2025-07-18 10:48:25,932 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-23 at 7:00pm (upcoming)
+2025-07-18 10:48:25,963 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-24 at 7:00pm (upcoming)
+2025-07-18 10:48:25,984 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-25 at 7:00pm (upcoming)
+2025-07-18 10:48:26,011 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-26 at 2:00pm (upcoming)
+2025-07-18 10:48:26,029 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-26 at 8:00pm (upcoming)
+2025-07-18 10:48:26,049 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-27 at 2:00pm (upcoming)
+2025-07-18 10:48:26,067 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-29 at 7:00pm (upcoming)
+2025-07-18 10:48:26,087 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-30 at 2:00pm (upcoming)
+2025-07-18 10:48:26,108 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-30 at 7:00pm (upcoming)
+2025-07-18 10:48:26,126 - INFO - \U0001f4c5 Call Me Izzy — 2025-07-31 at 7:00pm (upcoming)
+2025-07-18 10:48:28,320 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-01 at 7:00pm (upcoming)
+2025-07-18 10:48:28,336 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-02 at 2:00pm (upcoming)
+2025-07-18 10:48:28,354 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-02 at 8:00pm (upcoming)
+2025-07-18 10:48:28,379 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-03 at 2:00pm (upcoming)
+2025-07-18 10:48:28,400 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-05 at 7:00pm (upcoming)
+2025-07-18 10:48:28,427 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-06 at 2:00pm (upcoming)
+2025-07-18 10:48:28,450 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-06 at 7:00pm (upcoming)
+2025-07-18 10:48:28,469 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-07 at 7:00pm (upcoming)
+2025-07-18 10:48:28,496 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-08 at 7:00pm (upcoming)
+2025-07-18 10:48:28,517 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-09 at 2:00pm (upcoming)
+2025-07-18 10:48:28,540 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-09 at 8:00pm (upcoming)
+2025-07-18 10:48:28,559 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-10 at 2:00pm (upcoming)
+2025-07-18 10:48:28,578 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-12 at 7:00pm (upcoming)
+2025-07-18 10:48:28,597 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-13 at 2:00pm (upcoming)
+2025-07-18 10:48:28,616 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-13 at 7:00pm (upcoming)
+2025-07-18 10:48:28,635 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-14 at 7:00pm (upcoming)
+2025-07-18 10:48:28,654 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-15 at 7:00pm (upcoming)
+2025-07-18 10:48:28,676 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-16 at 2:00pm (upcoming)
+2025-07-18 10:48:28,693 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-16 at 8:00pm (upcoming)
+2025-07-18 10:48:28,712 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-17 at 2:00pm (upcoming)
+2025-07-18 10:48:28,730 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-19 at 7:00pm (upcoming)
+2025-07-18 10:48:28,748 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-20 at 2:00pm (upcoming)
+2025-07-18 10:48:28,767 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-20 at 7:00pm (upcoming)
+2025-07-18 10:48:28,784 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-21 at 7:00pm (upcoming)
+2025-07-18 10:48:28,804 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-22 at 7:00pm (upcoming)
+2025-07-18 10:48:28,830 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-23 at 2:00pm (upcoming)
+2025-07-18 10:48:28,849 - INFO - \U0001f4c5 Call Me Izzy — 2025-08-23 at 8:00pm (upcoming)
+2025-07-18 10:48:28,881 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:48:29,264 - INFO - [51] \u27a1\ufe0f  Back to detail page for Call Me Izzy
+2025-07-18 10:48:31,281 - INFO - \u2705 'Categories' section found for Call Me Izzy
+2025-07-18 10:48:31,343 - INFO - \U0001f3ad Production Type for 'Call Me Izzy': Plays
+2025-07-18 10:48:31,344 - INFO - \U0001f50d'Origin' for Call Me Izzy is N/A 
+2025-07-18 10:48:31,377 - INFO - \U0001f4c5 Raw show dates text for Call Me Izzy: Previews: May 24, 2025 • Opening: Jun 12, 2025 • Closing: Aug 24, 2025
+2025-07-18 10:48:31,378 - INFO - \U0001f3ad Production age for 'Call Me Izzy': 0 year(s)
+2025-07-18 10:48:31,423 - INFO - \U0001f3db\ufe0f Venue: Studio 54
+2025-07-18 10:48:31,424 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:48:32,900 - INFO - [52] \u27a1\ufe0f  Opened detail page for Ginger Twinsies
+2025-07-18 10:48:34,600 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Ginger Twinsies
+2025-07-18 10:48:38,531 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-18 at 6:00pm (active)
+2025-07-18 10:48:38,553 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-18 at 9:00pm (active)
+2025-07-18 10:48:38,578 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-19 at 6:00pm (upcoming)
+2025-07-18 10:48:38,599 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-19 at 9:00pm (upcoming)
+2025-07-18 10:48:38,618 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-21 at 7:00pm (upcoming)
+2025-07-18 10:48:38,643 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-22 at 7:00pm (upcoming)
+2025-07-18 10:48:38,665 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-23 at 7:00pm (upcoming)
+2025-07-18 10:48:38,685 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-25 at 6:00pm (upcoming)
+2025-07-18 10:48:38,711 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-25 at 9:00pm (upcoming)
+2025-07-18 10:48:38,730 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-26 at 6:00pm (upcoming)
+2025-07-18 10:48:38,750 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-26 at 9:00pm (upcoming)
+2025-07-18 10:48:38,769 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-28 at 7:00pm (upcoming)
+2025-07-18 10:48:38,794 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-29 at 7:00pm (upcoming)
+2025-07-18 10:48:38,816 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-30 at 7:00pm (upcoming)
+2025-07-18 10:48:38,835 - INFO - \U0001f4c5 Ginger Twinsies — 2025-07-31 at 7:00pm (upcoming)
+2025-07-18 10:48:41,025 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-01 at 6:00pm (upcoming)
+2025-07-18 10:48:41,045 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-01 at 9:00pm (upcoming)
+2025-07-18 10:48:41,066 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-02 at 6:00pm (upcoming)
+2025-07-18 10:48:41,084 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-02 at 9:00pm (upcoming)
+2025-07-18 10:48:41,110 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-04 at 7:00pm (upcoming)
+2025-07-18 10:48:41,146 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-05 at 7:00pm (upcoming)
+2025-07-18 10:48:41,167 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-06 at 7:00pm (upcoming)
+2025-07-18 10:48:41,191 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-07 at 7:00pm (upcoming)
+2025-07-18 10:48:41,213 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-08 at 6:00pm (upcoming)
+2025-07-18 10:48:41,243 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-08 at 9:00pm (upcoming)
+2025-07-18 10:48:41,264 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-09 at 6:00pm (upcoming)
+2025-07-18 10:48:41,282 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-09 at 9:00pm (upcoming)
+2025-07-18 10:48:41,301 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-11 at 7:00pm (upcoming)
+2025-07-18 10:48:41,326 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-12 at 7:00pm (upcoming)
+2025-07-18 10:48:41,345 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-13 at 7:00pm (upcoming)
+2025-07-18 10:48:41,365 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-14 at 7:00pm (upcoming)
+2025-07-18 10:48:41,385 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-15 at 6:00pm (upcoming)
+2025-07-18 10:48:41,409 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-15 at 9:00pm (upcoming)
+2025-07-18 10:48:41,429 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-16 at 6:00pm (upcoming)
+2025-07-18 10:48:41,450 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-16 at 9:00pm (upcoming)
+2025-07-18 10:48:41,477 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-18 at 7:00pm (upcoming)
+2025-07-18 10:48:41,496 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-19 at 7:00pm (upcoming)
+2025-07-18 10:48:41,516 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-20 at 7:00pm (upcoming)
+2025-07-18 10:48:41,533 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-21 at 7:00pm (upcoming)
+2025-07-18 10:48:41,552 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-22 at 6:00pm (upcoming)
+2025-07-18 10:48:41,583 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-22 at 9:00pm (upcoming)
+2025-07-18 10:48:41,601 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-23 at 6:00pm (upcoming)
+2025-07-18 10:48:41,620 - INFO - \U0001f4c5 Ginger Twinsies — 2025-08-23 at 9:00pm (upcoming)
+2025-07-18 10:48:44,395 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-01 at 7:00pm (upcoming)
+2025-07-18 10:48:44,414 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-02 at 7:00pm (upcoming)
+2025-07-18 10:48:44,433 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-03 at 7:00pm (upcoming)
+2025-07-18 10:48:44,460 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-04 at 7:00pm (upcoming)
+2025-07-18 10:48:44,480 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-05 at 6:00pm (upcoming)
+2025-07-18 10:48:44,502 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-05 at 9:00pm (upcoming)
+2025-07-18 10:48:44,525 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-06 at 6:00pm (upcoming)
+2025-07-18 10:48:44,546 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-06 at 9:00pm (upcoming)
+2025-07-18 10:48:44,570 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-08 at 7:00pm (upcoming)
+2025-07-18 10:48:44,600 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-09 at 7:00pm (upcoming)
+2025-07-18 10:48:44,627 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-10 at 7:00pm (upcoming)
+2025-07-18 10:48:44,652 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-11 at 7:00pm (upcoming)
+2025-07-18 10:48:44,678 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-12 at 6:00pm (upcoming)
+2025-07-18 10:48:44,702 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-12 at 9:00pm (upcoming)
+2025-07-18 10:48:44,728 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-13 at 6:00pm (upcoming)
+2025-07-18 10:48:44,750 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-13 at 9:00pm (upcoming)
+2025-07-18 10:48:44,775 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-15 at 7:00pm (upcoming)
+2025-07-18 10:48:44,798 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-16 at 7:00pm (upcoming)
+2025-07-18 10:48:44,827 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-17 at 7:00pm (upcoming)
+2025-07-18 10:48:44,850 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-18 at 7:00pm (upcoming)
+2025-07-18 10:48:44,876 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-19 at 6:00pm (upcoming)
+2025-07-18 10:48:44,902 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-19 at 9:00pm (upcoming)
+2025-07-18 10:48:44,929 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-20 at 6:00pm (upcoming)
+2025-07-18 10:48:44,952 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-20 at 9:00pm (upcoming)
+2025-07-18 10:48:44,979 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-22 at 7:00pm (upcoming)
+2025-07-18 10:48:45,003 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-23 at 7:00pm (upcoming)
+2025-07-18 10:48:45,029 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-24 at 7:00pm (upcoming)
+2025-07-18 10:48:45,050 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-25 at 7:00pm (upcoming)
+2025-07-18 10:48:45,077 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-26 at 6:00pm (upcoming)
+2025-07-18 10:48:45,098 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-26 at 9:00pm (upcoming)
+2025-07-18 10:48:45,126 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-27 at 6:00pm (upcoming)
+2025-07-18 10:48:45,151 - INFO - \U0001f4c5 Ginger Twinsies — 2025-09-27 at 9:00pm (upcoming)
+2025-07-18 10:48:46,909 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-01 at 7:00pm (upcoming)
+2025-07-18 10:48:46,936 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-02 at 7:00pm (upcoming)
+2025-07-18 10:48:46,965 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-03 at 6:00pm (upcoming)
+2025-07-18 10:48:46,987 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-03 at 9:00pm (upcoming)
+2025-07-18 10:48:47,014 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-04 at 6:00pm (upcoming)
+2025-07-18 10:48:47,041 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-04 at 9:00pm (upcoming)
+2025-07-18 10:48:47,069 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-06 at 7:00pm (upcoming)
+2025-07-18 10:48:47,096 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-07 at 7:00pm (upcoming)
+2025-07-18 10:48:47,117 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-08 at 7:00pm (upcoming)
+2025-07-18 10:48:47,150 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-09 at 7:00pm (upcoming)
+2025-07-18 10:48:47,169 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-10 at 6:00pm (upcoming)
+2025-07-18 10:48:47,195 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-10 at 9:00pm (upcoming)
+2025-07-18 10:48:47,234 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-11 at 6:00pm (upcoming)
+2025-07-18 10:48:47,301 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-11 at 9:00pm (upcoming)
+2025-07-18 10:48:47,366 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-13 at 7:00pm (upcoming)
+2025-07-18 10:48:47,397 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-14 at 7:00pm (upcoming)
+2025-07-18 10:48:47,415 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-15 at 7:00pm (upcoming)
+2025-07-18 10:48:47,434 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-16 at 7:00pm (upcoming)
+2025-07-18 10:48:47,463 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-17 at 6:00pm (upcoming)
+2025-07-18 10:48:47,770 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-17 at 9:00pm (upcoming)
+2025-07-18 10:48:47,800 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-18 at 6:00pm (upcoming)
+2025-07-18 10:48:47,829 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-18 at 9:00pm (upcoming)
+2025-07-18 10:48:47,897 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-20 at 7:00pm (upcoming)
+2025-07-18 10:48:47,946 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-21 at 7:00pm (upcoming)
+2025-07-18 10:48:48,001 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-22 at 7:00pm (upcoming)
+2025-07-18 10:48:48,083 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-23 at 7:00pm (upcoming)
+2025-07-18 10:48:48,109 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-24 at 6:00pm (upcoming)
+2025-07-18 10:48:48,186 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-24 at 9:00pm (upcoming)
+2025-07-18 10:48:48,445 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-25 at 6:00pm (upcoming)
+2025-07-18 10:48:48,713 - INFO - \U0001f4c5 Ginger Twinsies — 2025-10-25 at 9:00pm (upcoming)
+2025-07-18 10:48:48,800 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:48:49,024 - INFO - [52] \u27a1\ufe0f  Back to detail page for Ginger Twinsies
+2025-07-18 10:48:51,033 - INFO - \u2705 'Categories' section found for Ginger Twinsies
+2025-07-18 10:48:51,070 - INFO - \U0001f3ad Production Type for 'Ginger Twinsies': Plays
+2025-07-18 10:48:51,070 - INFO - \U0001f50d'Origin' for Ginger Twinsies is N/A 
+2025-07-18 10:48:51,101 - INFO - \U0001f4c5 Raw show dates text for Ginger Twinsies: Previews: Jul 10, 2025 • Opening: Jul 24, 2025 • Closing: Oct 26, 2025
+2025-07-18 10:48:51,102 - INFO - \U0001f553 'Ginger Twinsies' has not opened yet. Age: Upcoming
+2025-07-18 10:48:51,146 - INFO - \U0001f3db\ufe0f Venue: Orpheum
+2025-07-18 10:48:51,147 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:48:52,600 - INFO - [53] \u27a1\ufe0f  Opened detail page for Singfeld! A Musical About Nothing!
+2025-07-18 10:48:54,501 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Singfeld! A Musical About Nothing!
