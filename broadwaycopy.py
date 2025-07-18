@@ -405,7 +405,7 @@ def scrape_shows():
                 
                 
                 
-                # Ensure at least one row is saved even if calendar_data is empty
+                # Ensure at least one row is saved even if calendar_data is empty =====
                 calendar_data = calendar_data or [{"date": "N/A", "time": "N/A", "status": "N/A"}]
 
                 for perf in calendar_data:

@@ -19730,3 +19730,825 @@ Stacktrace:
 2025-07-18 10:48:51,147 - INFO - \U0001f30d Market Presence: US
 2025-07-18 10:48:52,600 - INFO - [53] \u27a1\ufe0f  Opened detail page for Singfeld! A Musical About Nothing!
 2025-07-18 10:48:54,501 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Singfeld! A Musical About Nothing!
+2025-07-18 10:48:58,367 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-19 at 6:30pm (upcoming)
+2025-07-18 10:48:58,426 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-20 at 8:30pm (upcoming)
+2025-07-18 10:48:58,450 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-21 at 7:30pm (upcoming)
+2025-07-18 10:48:58,476 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-24 at 2:00pm (upcoming)
+2025-07-18 10:48:58,500 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-26 at 6:30pm (upcoming)
+2025-07-18 10:48:58,526 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-27 at 8:30pm (upcoming)
+2025-07-18 10:48:58,553 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-28 at 7:30pm (upcoming)
+2025-07-18 10:48:58,583 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-07-31 at 2:00pm (upcoming)
+2025-07-18 10:49:00,467 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-08-02 at 6:30pm (upcoming)
+2025-07-18 10:49:00,485 - INFO - \U0001f4c5 Singfeld! A Musical About Nothing! — 2025-08-03 at 8:30pm (upcoming)
+2025-07-18 10:49:00,503 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:49:00,696 - INFO - [53] \u27a1\ufe0f  Back to detail page for Singfeld! A Musical About Nothing!
+2025-07-18 10:49:02,745 - INFO - \u26a0\ufe0f No 'Categories' section found for Singfeld! A Musical About Nothing!; defaulting to production_type = N/A
+2025-07-18 10:49:02,746 - INFO - \U0001f3ad Production Type for 'Singfeld! A Musical About Nothing!': N/A
+2025-07-18 10:49:02,746 - INFO - \U0001f50d'Origin' for Singfeld! A Musical About Nothing! is N/A 
+2025-07-18 10:49:02,765 - INFO - \u26a0\ufe0f Could not find 'Show Dates' section for Singfeld! A Musical About Nothing!: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()="Show Dates"]"}
+  (Session info: chrome=138.0.7204.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:49:02,813 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:49:02,813 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:49:04,567 - INFO - [54] \u27a1\ufe0f  Opened detail page for Pen Pals
+2025-07-18 10:49:06,371 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Pen Pals
+2025-07-18 10:49:09,235 - INFO - \U0001f4c5 Pen Pals — 2025-08-15 at 7:00pm (upcoming)
+2025-07-18 10:49:09,258 - INFO - \U0001f4c5 Pen Pals — 2025-08-16 at 3:00pm (upcoming)
+2025-07-18 10:49:09,281 - INFO - \U0001f4c5 Pen Pals — 2025-08-16 at 7:00pm (upcoming)
+2025-07-18 10:49:09,301 - INFO - \U0001f4c5 Pen Pals — 2025-08-17 at 3:00pm (upcoming)
+2025-07-18 10:49:09,329 - INFO - \U0001f4c5 Pen Pals — 2025-08-19 at 7:00pm (upcoming)
+2025-07-18 10:49:09,362 - INFO - \U0001f4c5 Pen Pals — 2025-08-21 at 1:00pm (upcoming)
+2025-07-18 10:49:09,404 - INFO - \U0001f4c5 Pen Pals — 2025-08-21 at 5:00pm (upcoming)
+2025-07-18 10:49:09,454 - INFO - \U0001f4c5 Pen Pals — 2025-08-22 at 7:00pm (upcoming)
+2025-07-18 10:49:09,476 - INFO - \U0001f4c5 Pen Pals — 2025-08-23 at 3:00pm (upcoming)
+2025-07-18 10:49:09,495 - INFO - \U0001f4c5 Pen Pals — 2025-08-23 at 7:00pm (upcoming)
+2025-07-18 10:49:09,513 - INFO - \U0001f4c5 Pen Pals — 2025-08-24 at 3:00pm (upcoming)
+2025-07-18 10:49:09,533 - INFO - \U0001f4c5 Pen Pals — 2025-08-26 at 7:00pm (upcoming)
+2025-07-18 10:49:09,551 - INFO - \U0001f4c5 Pen Pals — 2025-08-27 at 7:00pm (upcoming)
+2025-07-18 10:49:09,570 - INFO - \U0001f4c5 Pen Pals — 2025-08-28 at 1:00pm (upcoming)
+2025-07-18 10:49:09,592 - INFO - \U0001f4c5 Pen Pals — 2025-08-28 at 5:00pm (upcoming)
+2025-07-18 10:49:09,612 - INFO - \U0001f4c5 Pen Pals — 2025-08-29 at 7:00pm (upcoming)
+2025-07-18 10:49:09,631 - INFO - \U0001f4c5 Pen Pals — 2025-08-30 at 3:00pm (upcoming)
+2025-07-18 10:49:09,652 - INFO - \U0001f4c5 Pen Pals — 2025-08-30 at 7:00pm (upcoming)
+2025-07-18 10:49:09,686 - INFO - \U0001f4c5 Pen Pals — 2025-08-31 at 3:00pm (upcoming)
+2025-07-18 10:49:12,240 - INFO - \U0001f4c5 Pen Pals — 2025-09-03 at 7:00pm (upcoming)
+2025-07-18 10:49:12,260 - INFO - \U0001f4c5 Pen Pals — 2025-09-04 at 1:00pm (upcoming)
+2025-07-18 10:49:12,277 - INFO - \U0001f4c5 Pen Pals — 2025-09-04 at 5:00pm (upcoming)
+2025-07-18 10:49:12,296 - INFO - \U0001f4c5 Pen Pals — 2025-09-05 at 7:00pm (upcoming)
+2025-07-18 10:49:12,317 - INFO - \U0001f4c5 Pen Pals — 2025-09-06 at 3:00pm (upcoming)
+2025-07-18 10:49:12,334 - INFO - \U0001f4c5 Pen Pals — 2025-09-06 at 7:00pm (upcoming)
+2025-07-18 10:49:12,353 - INFO - \U0001f4c5 Pen Pals — 2025-09-07 at 3:00pm (upcoming)
+2025-07-18 10:49:12,376 - INFO - \U0001f4c5 Pen Pals — 2025-09-09 at 7:00pm (upcoming)
+2025-07-18 10:49:12,395 - INFO - \U0001f4c5 Pen Pals — 2025-09-10 at 7:00pm (upcoming)
+2025-07-18 10:49:12,414 - INFO - \U0001f4c5 Pen Pals — 2025-09-11 at 1:00pm (upcoming)
+2025-07-18 10:49:12,433 - INFO - \U0001f4c5 Pen Pals — 2025-09-11 at 5:00pm (upcoming)
+2025-07-18 10:49:12,453 - INFO - \U0001f4c5 Pen Pals — 2025-09-12 at 7:00pm (upcoming)
+2025-07-18 10:49:12,475 - INFO - \U0001f4c5 Pen Pals — 2025-09-13 at 3:00pm (upcoming)
+2025-07-18 10:49:12,493 - INFO - \U0001f4c5 Pen Pals — 2025-09-13 at 7:00pm (upcoming)
+2025-07-18 10:49:12,511 - INFO - \U0001f4c5 Pen Pals — 2025-09-14 at 3:00pm (upcoming)
+2025-07-18 10:49:12,533 - INFO - \U0001f4c5 Pen Pals — 2025-09-17 at 7:00pm (upcoming)
+2025-07-18 10:49:12,552 - INFO - \U0001f4c5 Pen Pals — 2025-09-18 at 1:00pm (upcoming)
+2025-07-18 10:49:12,576 - INFO - \U0001f4c5 Pen Pals — 2025-09-18 at 5:00pm (upcoming)
+2025-07-18 10:49:12,596 - INFO - \U0001f4c5 Pen Pals — 2025-09-19 at 7:00pm (upcoming)
+2025-07-18 10:49:12,615 - INFO - \U0001f4c5 Pen Pals — 2025-09-20 at 3:00pm (upcoming)
+2025-07-18 10:49:12,635 - INFO - \U0001f4c5 Pen Pals — 2025-09-20 at 7:00pm (upcoming)
+2025-07-18 10:49:12,660 - INFO - \U0001f4c5 Pen Pals — 2025-09-21 at 3:00pm (upcoming)
+2025-07-18 10:49:12,678 - INFO - \U0001f4c5 Pen Pals — 2025-09-23 at 7:00pm (upcoming)
+2025-07-18 10:49:12,696 - INFO - \U0001f4c5 Pen Pals — 2025-09-24 at 7:00pm (upcoming)
+2025-07-18 10:49:12,714 - INFO - \U0001f4c5 Pen Pals — 2025-09-25 at 1:00pm (upcoming)
+2025-07-18 10:49:12,732 - INFO - \U0001f4c5 Pen Pals — 2025-09-25 at 5:00pm (upcoming)
+2025-07-18 10:49:12,751 - INFO - \U0001f4c5 Pen Pals — 2025-09-26 at 7:00pm (upcoming)
+2025-07-18 10:49:12,780 - INFO - \U0001f4c5 Pen Pals — 2025-09-27 at 3:00pm (upcoming)
+2025-07-18 10:49:12,800 - INFO - \U0001f4c5 Pen Pals — 2025-09-27 at 7:00pm (upcoming)
+2025-07-18 10:49:15,418 - INFO - \U0001f4c5 Pen Pals — 2025-10-01 at 7:00pm (upcoming)
+2025-07-18 10:49:15,444 - INFO - \U0001f4c5 Pen Pals — 2025-10-02 at 1:00pm (upcoming)
+2025-07-18 10:49:15,477 - INFO - \U0001f4c5 Pen Pals — 2025-10-02 at 5:00pm (upcoming)
+2025-07-18 10:49:15,503 - INFO - \U0001f4c5 Pen Pals — 2025-10-03 at 7:00pm (upcoming)
+2025-07-18 10:49:15,530 - INFO - \U0001f4c5 Pen Pals — 2025-10-04 at 3:00pm (upcoming)
+2025-07-18 10:49:15,562 - INFO - \U0001f4c5 Pen Pals — 2025-10-04 at 7:00pm (upcoming)
+2025-07-18 10:49:15,586 - INFO - \U0001f4c5 Pen Pals — 2025-10-05 at 3:00pm (upcoming)
+2025-07-18 10:49:15,612 - INFO - \U0001f4c5 Pen Pals — 2025-10-07 at 7:00pm (upcoming)
+2025-07-18 10:49:15,635 - INFO - \U0001f4c5 Pen Pals — 2025-10-08 at 7:00pm (upcoming)
+2025-07-18 10:49:15,662 - INFO - \U0001f4c5 Pen Pals — 2025-10-09 at 1:00pm (upcoming)
+2025-07-18 10:49:15,681 - INFO - \U0001f4c5 Pen Pals — 2025-10-09 at 5:00pm (upcoming)
+2025-07-18 10:49:15,702 - INFO - \U0001f4c5 Pen Pals — 2025-10-10 at 7:00pm (upcoming)
+2025-07-18 10:49:15,731 - INFO - \U0001f4c5 Pen Pals — 2025-10-11 at 3:00pm (upcoming)
+2025-07-18 10:49:15,761 - INFO - \U0001f4c5 Pen Pals — 2025-10-11 at 7:00pm (upcoming)
+2025-07-18 10:49:15,793 - INFO - \U0001f4c5 Pen Pals — 2025-10-12 at 3:00pm (upcoming)
+2025-07-18 10:49:15,832 - INFO - \U0001f4c5 Pen Pals — 2025-10-15 at 7:00pm (upcoming)
+2025-07-18 10:49:15,861 - INFO - \U0001f4c5 Pen Pals — 2025-10-16 at 1:00pm (upcoming)
+2025-07-18 10:49:15,886 - INFO - \U0001f4c5 Pen Pals — 2025-10-16 at 5:00pm (upcoming)
+2025-07-18 10:49:15,913 - INFO - \U0001f4c5 Pen Pals — 2025-10-17 at 7:00pm (upcoming)
+2025-07-18 10:49:15,934 - INFO - \U0001f4c5 Pen Pals — 2025-10-18 at 3:00pm (upcoming)
+2025-07-18 10:49:15,954 - INFO - \U0001f4c5 Pen Pals — 2025-10-18 at 7:00pm (upcoming)
+2025-07-18 10:49:15,980 - INFO - \U0001f4c5 Pen Pals — 2025-10-19 at 3:00pm (upcoming)
+2025-07-18 10:49:16,000 - INFO - \U0001f4c5 Pen Pals — 2025-10-21 at 7:00pm (upcoming)
+2025-07-18 10:49:16,025 - INFO - \U0001f4c5 Pen Pals — 2025-10-22 at 7:00pm (upcoming)
+2025-07-18 10:49:16,050 - INFO - \U0001f4c5 Pen Pals — 2025-10-23 at 1:00pm (upcoming)
+2025-07-18 10:49:16,076 - INFO - \U0001f4c5 Pen Pals — 2025-10-23 at 5:00pm (upcoming)
+2025-07-18 10:49:16,096 - INFO - \U0001f4c5 Pen Pals — 2025-10-24 at 7:00pm (upcoming)
+2025-07-18 10:49:16,126 - INFO - \U0001f4c5 Pen Pals — 2025-10-25 at 3:00pm (upcoming)
+2025-07-18 10:49:16,146 - INFO - \U0001f4c5 Pen Pals — 2025-10-25 at 7:00pm (upcoming)
+2025-07-18 10:49:19,293 - INFO - \U0001f4c5 Pen Pals — 2025-11-12 at 7:00pm (upcoming)
+2025-07-18 10:49:19,308 - INFO - \U0001f4c5 Pen Pals — 2025-11-13 at 1:00pm (upcoming)
+2025-07-18 10:49:19,325 - INFO - \U0001f4c5 Pen Pals — 2025-11-13 at 5:00pm (upcoming)
+2025-07-18 10:49:19,341 - INFO - \U0001f4c5 Pen Pals — 2025-11-14 at 7:00pm (upcoming)
+2025-07-18 10:49:19,363 - INFO - \U0001f4c5 Pen Pals — 2025-11-15 at 3:00pm (upcoming)
+2025-07-18 10:49:19,380 - INFO - \U0001f4c5 Pen Pals — 2025-11-15 at 7:00pm (upcoming)
+2025-07-18 10:49:19,398 - INFO - \U0001f4c5 Pen Pals — 2025-11-16 at 3:00pm (upcoming)
+2025-07-18 10:49:19,416 - INFO - \U0001f4c5 Pen Pals — 2025-11-18 at 7:00pm (upcoming)
+2025-07-18 10:49:19,434 - INFO - \U0001f4c5 Pen Pals — 2025-11-19 at 7:00pm (upcoming)
+2025-07-18 10:49:19,450 - INFO - \U0001f4c5 Pen Pals — 2025-11-20 at 1:00pm (upcoming)
+2025-07-18 10:49:19,469 - INFO - \U0001f4c5 Pen Pals — 2025-11-20 at 5:00pm (upcoming)
+2025-07-18 10:49:19,485 - INFO - \U0001f4c5 Pen Pals — 2025-11-21 at 7:00pm (upcoming)
+2025-07-18 10:49:19,502 - INFO - \U0001f4c5 Pen Pals — 2025-11-22 at 3:00pm (upcoming)
+2025-07-18 10:49:19,519 - INFO - \U0001f4c5 Pen Pals — 2025-11-22 at 7:00pm (upcoming)
+2025-07-18 10:49:19,542 - INFO - \U0001f4c5 Pen Pals — 2025-11-23 at 3:00pm (upcoming)
+2025-07-18 10:49:19,595 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:49:19,892 - INFO - [54] \u27a1\ufe0f  Back to detail page for Pen Pals
+2025-07-18 10:49:21,919 - INFO - \u2705 'Categories' section found for Pen Pals
+2025-07-18 10:49:21,970 - INFO - \U0001f3ad Production Type for 'Pen Pals': Plays
+2025-07-18 10:49:21,971 - INFO - \U0001f50d'Origin' for Pen Pals is N/A 
+2025-07-18 10:49:22,014 - INFO - \U0001f4c5 Raw show dates text for Pen Pals: Previews: Aug 15, 2025 • Opening: Aug 20, 2025
+2025-07-18 10:49:22,015 - INFO - \U0001f553 'Pen Pals' has not opened yet. Age: Upcoming
+2025-07-18 10:49:22,080 - INFO - \U0001f3db\ufe0f Venue: DR2
+2025-07-18 10:49:22,081 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:49:23,737 - INFO - [55] \u27a1\ufe0f  Opened detail page for Wesley
+2025-07-18 10:49:25,502 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Wesley
+2025-07-18 10:49:27,778 - INFO - \U0001f4c5 Wesley — 2025-07-18 at 4:00pm (active)
+2025-07-18 10:49:27,798 - INFO - \U0001f4c5 Wesley — 2025-07-23 at 2:00pm (upcoming)
+2025-07-18 10:49:27,824 - INFO - \U0001f4c5 Wesley — 2025-07-24 at 2:00pm (upcoming)
+2025-07-18 10:49:27,846 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:49:28,001 - INFO - [55] \u27a1\ufe0f  Back to detail page for Wesley
+2025-07-18 10:49:30,015 - INFO - \u2705 'Categories' section found for Wesley
+2025-07-18 10:49:30,052 - INFO - \U0001f3ad Production Type for 'Wesley': Musicals
+2025-07-18 10:49:30,052 - INFO - \U0001f50d'Origin' for Wesley is N/A 
+2025-07-18 10:49:30,095 - INFO - \U0001f4c5 Raw show dates text for Wesley: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:49:30,096 - INFO - \u26a0\ufe0f No opening date found for Wesley
+2025-07-18 10:49:30,147 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:49:30,147 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:49:31,686 - INFO - [56] \u27a1\ufe0f  Opened detail page for Dolly: A True Original Musical
+2025-07-18 10:49:31,702 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Dolly: A True Original Musical
+2025-07-18 10:49:41,763 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:49:41,921 - INFO - [56] \u27a1\ufe0f  Back to detail page for Dolly: A True Original Musical
+2025-07-18 10:49:43,934 - INFO - \u2705 'Categories' section found for Dolly: A True Original Musical
+2025-07-18 10:49:43,970 - INFO - \U0001f3ad Production Type for 'Dolly: A True Original Musical': Musicals
+2025-07-18 10:49:43,976 - INFO - \U0001f50d'Origin' for Dolly: A True Original Musical is N/A 
+2025-07-18 10:49:44,012 - INFO - \U0001f4c5 Raw show dates text for Dolly: A True Original Musical: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:49:44,012 - INFO - \u26a0\ufe0f No opening date found for Dolly: A True Original Musical
+2025-07-18 10:49:44,049 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:49:44,049 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:49:45,566 - INFO - [57] \u27a1\ufe0f  Opened detail page for Midnight in the Garden of Good and Evil
+2025-07-18 10:49:45,645 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Midnight in the Garden of Good and Evil
+2025-07-18 10:49:55,674 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:49:55,901 - INFO - [57] \u27a1\ufe0f  Back to detail page for Midnight in the Garden of Good and Evil
+2025-07-18 10:49:57,929 - INFO - \u2705 'Categories' section found for Midnight in the Garden of Good and Evil
+2025-07-18 10:49:57,967 - INFO - \U0001f3ad Production Type for 'Midnight in the Garden of Good and Evil': Musicals
+2025-07-18 10:49:57,967 - INFO - \U0001f50d'Origin' for Midnight in the Garden of Good and Evil is N/A 
+2025-07-18 10:49:58,003 - INFO - \U0001f4c5 Raw show dates text for Midnight in the Garden of Good and Evil: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:49:58,016 - INFO - \u26a0\ufe0f No opening date found for Midnight in the Garden of Good and Evil
+2025-07-18 10:49:58,094 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:49:58,094 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:49:59,917 - INFO - [58] \u27a1\ufe0f  Opened detail page for The Lost Boys, A New Musical
+2025-07-18 10:49:59,928 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for The Lost Boys, A New Musical
+2025-07-18 10:50:10,395 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:50:10,816 - INFO - [58] \u27a1\ufe0f  Back to detail page for The Lost Boys, A New Musical
+2025-07-18 10:50:12,829 - INFO - \u2705 'Categories' section found for The Lost Boys, A New Musical
+2025-07-18 10:50:12,867 - INFO - \U0001f3ad Production Type for 'The Lost Boys, A New Musical': Musicals
+2025-07-18 10:50:12,867 - INFO - \U0001f50d'Origin' for The Lost Boys, A New Musical is N/A 
+2025-07-18 10:50:12,906 - INFO - \U0001f4c5 Raw show dates text for The Lost Boys, A New Musical: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:50:12,908 - INFO - \u26a0\ufe0f No opening date found for The Lost Boys, A New Musical
+2025-07-18 10:50:12,961 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:50:12,962 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:50:17,597 - INFO - [59] \u27a1\ufe0f  Opened detail page for All Out: Comedy About Life
+2025-07-18 10:50:17,610 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for All Out: Comedy About Life
+2025-07-18 10:50:28,012 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:50:28,143 - INFO - [59] \u27a1\ufe0f  Back to detail page for All Out: Comedy About Life
+2025-07-18 10:50:30,157 - INFO - \u2705 'Categories' section found for All Out: Comedy About Life
+2025-07-18 10:50:30,204 - INFO - \U0001f3ad Production Type for 'All Out: Comedy About Life': Musicals
+2025-07-18 10:50:30,204 - INFO - \U0001f50d'Origin' for All Out: Comedy About Life is N/A 
+2025-07-18 10:50:30,245 - INFO - \U0001f4c5 Raw show dates text for All Out: Comedy About Life: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:50:30,246 - INFO - \u26a0\ufe0f No opening date found for All Out: Comedy About Life
+2025-07-18 10:50:30,293 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:50:30,293 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:50:31,786 - INFO - [60] \u27a1\ufe0f  Opened detail page for Marjorie Prime
+2025-07-18 10:50:31,797 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Marjorie Prime
+2025-07-18 10:50:42,294 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:50:42,432 - INFO - [60] \u27a1\ufe0f  Back to detail page for Marjorie Prime
+2025-07-18 10:50:44,444 - INFO - \u2705 'Categories' section found for Marjorie Prime
+2025-07-18 10:50:44,475 - INFO - \U0001f3ad Production Type for 'Marjorie Prime': Musicals
+2025-07-18 10:50:44,475 - INFO - \U0001f50d'Origin' for Marjorie Prime is N/A 
+2025-07-18 10:50:44,511 - INFO - \U0001f4c5 Raw show dates text for Marjorie Prime: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:50:44,511 - INFO - \u26a0\ufe0f No opening date found for Marjorie Prime
+2025-07-18 10:50:44,553 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:50:44,553 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:50:46,216 - INFO - [61] \u27a1\ufe0f  Opened detail page for The 25th Annual Putnam County Spelling Bee
+2025-07-18 10:50:46,233 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for The 25th Annual Putnam County Spelling Bee
+2025-07-18 10:50:56,767 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:50:56,943 - INFO - [61] \u27a1\ufe0f  Back to detail page for The 25th Annual Putnam County Spelling Bee
+2025-07-18 10:50:58,953 - INFO - \u2705 'Categories' section found for The 25th Annual Putnam County Spelling Bee
+2025-07-18 10:50:58,984 - INFO - \U0001f3ad Production Type for 'The 25th Annual Putnam County Spelling Bee': Musicals
+2025-07-18 10:50:58,984 - INFO - \U0001f50d'Origin' for The 25th Annual Putnam County Spelling Bee is N/A 
+2025-07-18 10:50:59,016 - INFO - \U0001f4c5 Raw show dates text for The 25th Annual Putnam County Spelling Bee: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:50:59,016 - INFO - \u26a0\ufe0f No opening date found for The 25th Annual Putnam County Spelling Bee
+2025-07-18 10:50:59,053 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:50:59,054 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:51:00,668 - INFO - [62] \u27a1\ufe0f  Opened detail page for Becky Shaw
+2025-07-18 10:51:00,684 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Becky Shaw
+2025-07-18 10:51:10,708 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:51:10,860 - INFO - [62] \u27a1\ufe0f  Back to detail page for Becky Shaw
+2025-07-18 10:51:12,869 - INFO - \u2705 'Categories' section found for Becky Shaw
+2025-07-18 10:51:12,903 - INFO - \U0001f3ad Production Type for 'Becky Shaw': Musicals
+2025-07-18 10:51:12,904 - INFO - \U0001f50d'Origin' for Becky Shaw is N/A 
+2025-07-18 10:51:12,936 - INFO - \U0001f4c5 Raw show dates text for Becky Shaw: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:51:12,936 - INFO - \u26a0\ufe0f No opening date found for Becky Shaw
+2025-07-18 10:51:12,981 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:51:12,981 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:51:14,375 - INFO - [63] \u27a1\ufe0f  Opened detail page for Dog Day Afternoon
+2025-07-18 10:51:14,383 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Dog Day Afternoon
+2025-07-18 10:51:24,769 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:51:24,911 - INFO - [63] \u27a1\ufe0f  Back to detail page for Dog Day Afternoon
+2025-07-18 10:51:26,926 - INFO - \u2705 'Categories' section found for Dog Day Afternoon
+2025-07-18 10:51:26,959 - INFO - \U0001f3ad Production Type for 'Dog Day Afternoon': Musicals
+2025-07-18 10:51:26,960 - INFO - \U0001f50d'Origin' for Dog Day Afternoon is N/A 
+2025-07-18 10:51:27,026 - INFO - \U0001f4c5 Raw show dates text for Dog Day Afternoon: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:51:27,032 - INFO - \u26a0\ufe0f No opening date found for Dog Day Afternoon
+2025-07-18 10:51:27,123 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:51:27,124 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:51:28,761 - INFO - [64] \u27a1\ufe0f  Opened detail page for The Rocky Horror Show
+2025-07-18 10:51:28,769 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for The Rocky Horror Show
+2025-07-18 10:51:39,194 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:51:39,341 - INFO - [64] \u27a1\ufe0f  Back to detail page for The Rocky Horror Show
+2025-07-18 10:51:41,358 - INFO - \u2705 'Categories' section found for The Rocky Horror Show
+2025-07-18 10:51:41,397 - INFO - \U0001f3ad Production Type for 'The Rocky Horror Show': Musicals
+2025-07-18 10:51:41,397 - INFO - \U0001f50d'Origin' for The Rocky Horror Show is N/A 
+2025-07-18 10:51:41,429 - INFO - \U0001f4c5 Raw show dates text for The Rocky Horror Show: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:51:41,430 - INFO - \u26a0\ufe0f No opening date found for The Rocky Horror Show
+2025-07-18 10:51:41,475 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:51:41,476 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:51:42,998 - INFO - [65] \u27a1\ufe0f  Opened detail page for Fallen Angels
+2025-07-18 10:51:43,016 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Fallen Angels
+2025-07-18 10:51:53,127 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:51:53,461 - INFO - [65] \u27a1\ufe0f  Back to detail page for Fallen Angels
+2025-07-18 10:51:55,476 - INFO - \u2705 'Categories' section found for Fallen Angels
+2025-07-18 10:51:55,523 - INFO - \U0001f3ad Production Type for 'Fallen Angels': Musicals
+2025-07-18 10:51:55,524 - INFO - \U0001f50d'Origin' for Fallen Angels is N/A 
+2025-07-18 10:51:55,559 - INFO - \U0001f4c5 Raw show dates text for Fallen Angels: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:51:55,559 - INFO - \u26a0\ufe0f No opening date found for Fallen Angels
+2025-07-18 10:51:55,609 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:51:55,609 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:51:57,049 - INFO - [66] \u27a1\ufe0f  Opened detail page for Punch
+2025-07-18 10:51:57,080 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Punch
+2025-07-18 10:52:07,503 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:52:07,644 - INFO - [66] \u27a1\ufe0f  Back to detail page for Punch
+2025-07-18 10:52:09,655 - INFO - \u2705 'Categories' section found for Punch
+2025-07-18 10:52:09,683 - INFO - \U0001f3ad Production Type for 'Punch': Musicals
+2025-07-18 10:52:09,684 - INFO - \U0001f50d'Origin' for Punch is N/A 
+2025-07-18 10:52:09,717 - INFO - \U0001f4c5 Raw show dates text for Punch: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:52:09,717 - INFO - \u26a0\ufe0f No opening date found for Punch
+2025-07-18 10:52:09,764 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:52:09,764 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:52:11,246 - INFO - [67] \u27a1\ufe0f  Opened detail page for Archduke
+2025-07-18 10:52:11,262 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Archduke
+2025-07-18 10:52:21,531 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:52:21,698 - INFO - [67] \u27a1\ufe0f  Back to detail page for Archduke
+2025-07-18 10:52:23,711 - INFO - \u2705 'Categories' section found for Archduke
+2025-07-18 10:52:23,746 - INFO - \U0001f3ad Production Type for 'Archduke': Musicals
+2025-07-18 10:52:23,746 - INFO - \U0001f50d'Origin' for Archduke is N/A 
+2025-07-18 10:52:23,781 - INFO - \U0001f4c5 Raw show dates text for Archduke: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:52:23,782 - INFO - \u26a0\ufe0f No opening date found for Archduke
+2025-07-18 10:52:23,831 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:52:23,831 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:52:25,353 - INFO - [68] \u27a1\ufe0f  Opened detail page for Romy & Michele: The Musical
+2025-07-18 10:52:25,368 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Romy & Michele: The Musical
+2025-07-18 10:52:35,815 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:52:36,030 - INFO - [68] \u27a1\ufe0f  Back to detail page for Romy & Michele: The Musical
+2025-07-18 10:52:38,040 - INFO - \u2705 'Categories' section found for Romy & Michele: The Musical
+2025-07-18 10:52:38,079 - INFO - \U0001f3ad Production Type for 'Romy & Michele: The Musical': Musicals
+2025-07-18 10:52:38,079 - INFO - \U0001f50d'Origin' for Romy & Michele: The Musical is N/A 
+2025-07-18 10:52:38,119 - INFO - \U0001f4c5 Raw show dates text for Romy & Michele: The Musical: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:52:38,119 - INFO - \u26a0\ufe0f No opening date found for Romy & Michele: The Musical
+2025-07-18 10:52:38,175 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:52:38,176 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:52:39,710 - INFO - [69] \u27a1\ufe0f  Opened detail page for Private Lives
+2025-07-18 10:52:39,720 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Private Lives
+2025-07-18 10:52:50,068 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:52:50,287 - INFO - [69] \u27a1\ufe0f  Back to detail page for Private Lives
+2025-07-18 10:52:52,310 - INFO - \u2705 'Categories' section found for Private Lives
+2025-07-18 10:52:52,344 - INFO - \U0001f3ad Production Type for 'Private Lives': Musicals
+2025-07-18 10:52:52,345 - INFO - \U0001f50d'Origin' for Private Lives is N/A 
+2025-07-18 10:52:52,377 - INFO - \U0001f4c5 Raw show dates text for Private Lives: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:52:52,377 - INFO - \u26a0\ufe0f No opening date found for Private Lives
+2025-07-18 10:52:52,430 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:52:52,430 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:52:53,997 - INFO - [70] \u27a1\ufe0f  Opened detail page for Wanted
+2025-07-18 10:52:54,120 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Wanted
+2025-07-18 10:53:04,279 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:53:04,447 - INFO - [70] \u27a1\ufe0f  Back to detail page for Wanted
+2025-07-18 10:53:06,469 - INFO - \u2705 'Categories' section found for Wanted
+2025-07-18 10:53:06,510 - INFO - \U0001f3ad Production Type for 'Wanted': Musicals
+2025-07-18 10:53:06,510 - INFO - \U0001f50d'Origin' for Wanted is N/A 
+2025-07-18 10:53:06,553 - INFO - \U0001f4c5 Raw show dates text for Wanted: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:53:06,553 - INFO - \u26a0\ufe0f No opening date found for Wanted
+2025-07-18 10:53:06,620 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:53:06,624 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:53:08,211 - INFO - [71] \u27a1\ufe0f  Opened detail page for Little Bear Ridge Road
+2025-07-18 10:53:08,230 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Little Bear Ridge Road
+2025-07-18 10:53:18,368 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:53:18,542 - INFO - [71] \u27a1\ufe0f  Back to detail page for Little Bear Ridge Road
+2025-07-18 10:53:20,557 - INFO - \u2705 'Categories' section found for Little Bear Ridge Road
+2025-07-18 10:53:20,608 - INFO - \U0001f3ad Production Type for 'Little Bear Ridge Road': Musicals
+2025-07-18 10:53:20,608 - INFO - \U0001f50d'Origin' for Little Bear Ridge Road is N/A 
+2025-07-18 10:53:20,646 - INFO - \U0001f4c5 Raw show dates text for Little Bear Ridge Road: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:53:20,647 - INFO - \u26a0\ufe0f No opening date found for Little Bear Ridge Road
+2025-07-18 10:53:20,698 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:53:20,699 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:53:21,994 - INFO - [72] \u27a1\ufe0f  Opened detail page for Joe Turner's Come and Gone
+2025-07-18 10:53:22,010 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for Joe Turner's Come and Gone
+2025-07-18 10:53:32,052 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:53:32,256 - INFO - [72] \u27a1\ufe0f  Back to detail page for Joe Turner's Come and Gone
+2025-07-18 10:53:34,273 - INFO - \u2705 'Categories' section found for Joe Turner's Come and Gone
+2025-07-18 10:53:34,314 - INFO - \U0001f3ad Production Type for 'Joe Turner's Come and Gone': Musicals
+2025-07-18 10:53:34,314 - INFO - \U0001f50d'Origin' for Joe Turner's Come and Gone is N/A 
+2025-07-18 10:53:34,346 - INFO - \U0001f4c5 Raw show dates text for Joe Turner's Come and Gone: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:53:34,346 - INFO - \u26a0\ufe0f No opening date found for Joe Turner's Come and Gone
+2025-07-18 10:53:34,387 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:53:34,387 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:53:35,726 - INFO - [73] \u27a1\ufe0f  Opened detail page for The Balusters
+2025-07-18 10:53:35,740 - INFO - \u26a0\ufe0f 'View Calendar' button not visible or enabled for The Balusters
+2025-07-18 10:53:46,093 - INFO - \u274c Calendar scraping stopped: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:53:46,275 - INFO - [73] \u27a1\ufe0f  Back to detail page for The Balusters
+2025-07-18 10:53:48,317 - INFO - \u2705 'Categories' section found for The Balusters
+2025-07-18 10:53:48,384 - INFO - \U0001f3ad Production Type for 'The Balusters': Musicals
+2025-07-18 10:53:48,384 - INFO - \U0001f50d'Origin' for The Balusters is N/A 
+2025-07-18 10:53:48,430 - INFO - \U0001f4c5 Raw show dates text for The Balusters: Previews: Jun 11, 2025 • Closing: Jul 18, 2025
+2025-07-18 10:53:48,430 - INFO - \u26a0\ufe0f No opening date found for The Balusters
+2025-07-18 10:53:48,476 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:53:48,476 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:53:50,165 - INFO - [74] \u27a1\ufe0f  Opened detail page for Sulfur Bottom
+2025-07-18 10:53:52,731 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Sulfur Bottom
+2025-07-18 10:53:55,512 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-13 at 7:30pm (upcoming)
+2025-07-18 10:53:55,534 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-16 at 1:00pm (upcoming)
+2025-07-18 10:53:55,564 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-20 at 7:30pm (upcoming)
+2025-07-18 10:53:55,585 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-23 at 1:00pm (upcoming)
+2025-07-18 10:53:55,611 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-27 at 7:30pm (upcoming)
+2025-07-18 10:53:55,627 - INFO - \U0001f4c5 Sulfur Bottom — 2025-08-30 at 1:00pm (upcoming)
+2025-07-18 10:53:57,760 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-03 at 7:30pm (upcoming)
+2025-07-18 10:53:57,779 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-06 at 1:00pm (upcoming)
+2025-07-18 10:53:57,798 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-10 at 7:30pm (upcoming)
+2025-07-18 10:53:57,817 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-13 at 1:00pm (upcoming)
+2025-07-18 10:53:57,836 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-17 at 7:30pm (upcoming)
+2025-07-18 10:53:57,859 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-20 at 1:00pm (upcoming)
+2025-07-18 10:53:57,877 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-24 at 7:30pm (upcoming)
+2025-07-18 10:53:57,901 - INFO - \U0001f4c5 Sulfur Bottom — 2025-09-27 at 1:00pm (upcoming)
+2025-07-18 10:54:00,993 - INFO - \U0001f4c5 Sulfur Bottom — 2025-10-01 at 7:30pm (upcoming)
+2025-07-18 10:54:01,013 - INFO - \U0001f4c5 Sulfur Bottom — 2025-10-04 at 1:00pm (upcoming)
+2025-07-18 10:54:01,034 - INFO - \U0001f4c5 Sulfur Bottom — 2025-10-08 at 7:30pm (upcoming)
+2025-07-18 10:54:01,060 - INFO - \U0001f4c5 Sulfur Bottom — 2025-10-11 at 1:00pm (upcoming)
+2025-07-18 10:54:01,081 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:54:01,445 - INFO - [74] \u27a1\ufe0f  Back to detail page for Sulfur Bottom
+2025-07-18 10:54:03,461 - INFO - \u2705 'Categories' section found for Sulfur Bottom
+2025-07-18 10:54:03,517 - INFO - \U0001f3ad Production Type for 'Sulfur Bottom': Plays
+2025-07-18 10:54:03,517 - INFO - \U0001f50d'Origin' for Sulfur Bottom is N/A 
+2025-07-18 10:54:03,548 - INFO - \U0001f4c5 Raw show dates text for Sulfur Bottom: Previews: Aug 13, 2025 • Opening: Aug 20, 2025
+2025-07-18 10:54:03,548 - INFO - \U0001f553 'Sulfur Bottom' has not opened yet. Age: Upcoming
+2025-07-18 10:54:03,585 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:54:03,585 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:54:03,587 - INFO - \U0001f6cc Browser closed.
+2025-07-18 10:54:04,734 - INFO - \u2705 Scraping finished at 2025-07-18 10:54:04 (Duration: 1670.76 seconds)
+2025-07-18 10:54:05,381 - INFO - \U0001f4c1 Data saved to data/broadway_20250718_105404.csv
