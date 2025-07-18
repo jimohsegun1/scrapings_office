@@ -19247,3 +19247,61 @@ Stacktrace:
 2025-07-18 10:46:52,381 - INFO - \U0001f4c5 Gazillion Bubble Show — 2026-01-04 at 12:00pm (upcoming)
 2025-07-18 10:46:52,403 - INFO - \U0001f4c5 Gazillion Bubble Show — 2026-01-04 at 3:00pm (upcoming)
 2025-07-18 10:46:52,429 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:46:57,201 - INFO - [44] \u27a1\ufe0f  Back to detail page for Gazillion Bubble Show
+2025-07-18 10:46:59,237 - INFO - \u2705 'Categories' section found for Gazillion Bubble Show
+2025-07-18 10:46:59,346 - INFO - \U0001f3ad Production Type for 'Gazillion Bubble Show': N/A
+2025-07-18 10:46:59,347 - INFO - \U0001f50d'Origin' for Gazillion Bubble Show is N/A 
+2025-07-18 10:46:59,411 - INFO - \U0001f4c5 Raw show dates text for Gazillion Bubble Show: Opening: Feb 15, 2007
+2025-07-18 10:46:59,411 - INFO - \U0001f3ad Production age for 'Gazillion Bubble Show': 18 year(s)
+2025-07-18 10:46:59,477 - INFO - \U0001f3db\ufe0f Venue: New World Stages - Stage Two
+2025-07-18 10:46:59,477 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:47:01,458 - INFO - [45] \u27a1\ufe0f  Opened detail page for Friends! The Musical Parody
+2025-07-18 10:47:03,599 - INFO - \U0001f5d3\ufe0f Clicked 'View Calendar' for Friends! The Musical Parody
+2025-07-18 10:47:06,681 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-18 at 9:30pm (active)
+2025-07-18 10:47:06,703 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-19 at 8:30pm (upcoming)
+2025-07-18 10:47:06,730 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-20 at 3:30pm (upcoming)
+2025-07-18 10:47:06,751 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-20 at 6:00pm (upcoming)
+2025-07-18 10:47:06,778 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-22 at 7:30pm (upcoming)
+2025-07-18 10:47:06,810 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-25 at 9:30pm (upcoming)
+2025-07-18 10:47:06,833 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-26 at 8:30pm (upcoming)
+2025-07-18 10:47:06,861 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-27 at 3:30pm (upcoming)
+2025-07-18 10:47:06,880 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-27 at 6:00pm (upcoming)
+2025-07-18 10:47:06,901 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-07-29 at 7:30pm (upcoming)
+2025-07-18 10:47:08,859 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-08-01 at 9:30pm (upcoming)
+2025-07-18 10:47:08,886 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-08-02 at 8:30pm (upcoming)
+2025-07-18 10:47:08,936 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-08-03 at 3:30pm (upcoming)
+2025-07-18 10:47:08,967 - INFO - \U0001f4c5 Friends! The Musical Parody — 2025-08-03 at 6:00pm (upcoming)
+2025-07-18 10:47:09,001 - INFO - \U0001f4c5 No more future months. Exiting calendar.
+2025-07-18 10:47:10,034 - INFO - [45] \u27a1\ufe0f  Back to detail page for Friends! The Musical Parody
+2025-07-18 10:47:12,059 - INFO - \u2705 'Categories' section found for Friends! The Musical Parody
+2025-07-18 10:47:12,119 - INFO - \U0001f3ad Production Type for 'Friends! The Musical Parody': Musicals
+2025-07-18 10:47:12,120 - INFO - \U0001f50d'Origin' for Friends! The Musical Parody is N/A 
+2025-07-18 10:47:12,152 - INFO - \u26a0\ufe0f Could not find 'Show Dates' section for Friends! The Musical Parody: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()="Show Dates"]"}
+  (Session info: chrome=138.0.7204.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x951a33+62339]
+	GetHandleVerifier [0x0x951a74+62404]
+	(No symbol) [0x0x792123]
+	(No symbol) [0x0x7da86e]
+	(No symbol) [0x0x7dac0b]
+	(No symbol) [0x0x822f72]
+	(No symbol) [0x0x7ff404]
+	(No symbol) [0x0x8207a3]
+	(No symbol) [0x0x7ff1b6]
+	(No symbol) [0x0x7ce7a2]
+	(No symbol) [0x0x7cf644]
+	GetHandleVerifier [0x0xbc65c3+2637587]
+	GetHandleVerifier [0x0xbc19ca+2618138]
+	GetHandleVerifier [0x0x9784aa+220666]
+	GetHandleVerifier [0x0x9688d8+156200]
+	GetHandleVerifier [0x0x96f06d+182717]
+	GetHandleVerifier [0x0x959978+94920]
+	GetHandleVerifier [0x0x959b02+95314]
+	GetHandleVerifier [0x0x944c4a+9626]
+	BaseThreadInitThunk [0x0x75197ba9+25]
+	RtlInitializeExceptionChain [0x0x76fdc3ab+107]
+	RtlClearBits [0x0x76fdc32f+191]
+
+2025-07-18 10:47:12,207 - INFO - \U0001f3db\ufe0f Venue: The  Center
+2025-07-18 10:47:12,208 - INFO - \U0001f30d Market Presence: US
+2025-07-18 10:47:15,584 - INFO - [46] \u27a1\ufe0f  Opened detail page for Dilaria
