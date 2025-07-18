@@ -17,3 +17,85 @@ category : Show & Production
 
 Daily sales
 date, remaining_tickets, performance
+
+<!--  Going forward Remove these: -->
+- Age of production
+
+improve origin:     origin_type	 ===   Format origin (e.g., Book, Movie, Original)
+
+
+
+
+
+<!-- Show & Production Rearranged for structure script writing -->
+
+title			        ===	    official show title 
+standardized _title	    ===	    Normalized title for searching / comparison
+origin_type		        ===	    Format origin (e.g., Book, Movie, Original, comedy)
+first_opened		    ===	    Date of the very first production 
+
+performance_date	    ===	    Date of the performance
+day_of_week		        ===	    Day name (Monday, Tuesday, …)
+time			        ===	    Start time
+is_cancelled	        === 	Flag indicating if the performance is canceled Yes / No ( Boolean )
+
+preview_start 		    ===	    date ( first preview performance ) 
+preview_end		        ===	    date ( last preview performance ) 
+official_opening 	    ===	    date ( official opening night ) 
+closing_date		    ===	    date (official final date ) 
+
+type			        ===	    Production type (e.g., Musical, Play)
+status			        ===	    Current status (e.g., Running, Postponed, Closed)
+market			        ===	    Geographic / marketing region
+open_date		        ===	    Date performance begins
+close_date 		        ===	    Scheduled closing date
+
+
+
+website                 ===     website you scraped
+show_website            ===     website of each show
+include scraping category: show-production
+
+
+
+
+
+
+
+
+
+
+<!-- Show & Production:  jimohsegunj@gmail.com -->
+
+3. performance_schedule
+Purpose: Maintains the calendar of scheduled performances for a production.
+Table 3:
+performance_date	===	Date of the performance 👌
+day_of_week		===	Day name (Monday, Tuesday, …) 👌
+time			===	Start time 👌
+is_cancelled	=== 	Flag indicating if the performance is canceled Yes / No ( Boolean ) 👌
+
+4. performance_dates
+Purpose: Records key milestone dates for a production.
+Table 4:
+preview_start 		===	date ( first preview performance ) 👌
+preview_end		===	date ( last preview performance ) 👌
+official_opening 	===	date ( official opening night ) 👌
+closing_date		===	date (official final date ) 👌
+
+9. production
+Purpose: Core entity representing an instance of a show available for booking.
+Table 9:
+type			===	Production type (e.g., Musical, Play) 👌
+status			===	Current status (e.g., Running, Postponed, Closed) 👌
+market			===	Geographic / marketing region 👌
+open_date		===	Date performance begins 👌
+close_date 		===	Scheduled closing date 👌
+
+10. show
+Purpose: Defines the intellectual property or franchise (e.g., a particular title).
+Table 10:
+title			===	official show title 👌
+standardized _title	===	Normalized title for searching / comparison 👌
+origin_type		===	Format origin (e.g., Book, Movie, Original) 👌
+first_opened		===	Date of the very first production 👌

@@ -363,28 +363,52 @@ def scrape_shows():
                     log_and_print(f"⚠️ Venue info not found for {title}: {e}")
 
 
-                # Save final data row(s)
-                if calendar_data:
-                    for perf in calendar_data:
-                        all_scraped_data.append({
-                            "Title": title,
-                            "Link": link,
-                            "Description": item.get("Description", "N/A"),
-                            "Image URL": item.get("Image URL", "N/A"),
-                            # "Reviews": item.get("Reviews", "N/A"),
-                            # "Price": item.get("Price", "N/A"),
-                            "Production Type": production_type,
-                            "Market Presence": market_presence,
-                            "Theatre": venue_name,
-                            "Age of Production (yrs)": production_age,
-                            "Category": category,
-                            "Origin": origin,
-                            "Date": perf["date"],
-                            "Time": perf["time"],
-                            "Status": perf["status"],
-                        })
-                else:
-                    # If no calendar data, save at least one row
+                # # Save final data row(s)
+                # if calendar_data:
+                #     for perf in calendar_data:
+                #         all_scraped_data.append({
+                #             "Title": title,
+                #             "Link": link,
+                #             "Description": item.get("Description", "N/A"),
+                #             "Image URL": item.get("Image URL", "N/A"),
+                #             # "Reviews": item.get("Reviews", "N/A"),
+                #             # "Price": item.get("Price", "N/A"),
+                #             "Production Type": production_type,
+                #             "Market Presence": market_presence,
+                #             "Theatre": venue_name,
+                #             "Age of Production (yrs)": production_age,
+                #             "Category": category,
+                #             "Origin": origin,
+                #             "Date": perf["date"],
+                #             "Time": perf["time"],
+                #             "Status": perf["status"],
+                #         })
+                # else:
+                #     # If no calendar data, save at least one row
+                #     all_scraped_data.append({
+                #         "Title": title,
+                #         "Link": link,
+                #         "Description": item.get("Description", "N/A"),
+                #         "Image URL": item.get("Image URL", "N/A"),
+                #         # "Reviews": item.get("Reviews", "N/A"),
+                #         # "Price": item.get("Price", "N/A"),
+                #         "Production Type": production_type,
+                #         "Market Presence": market_presence,
+                #         "Theatre": venue_name,
+                #         "Age of Production (yrs)": production_age,
+                #         "Category": category,
+                #         "Origin": origin,
+                #         "Date": "N/A",
+                #         "Time": "N/A",
+                #         "Status": "N/A",
+                #     })
+                
+                
+                
+                # Ensure at least one row is saved even if calendar_data is empty
+                calendar_data = calendar_data or [{"date": "N/A", "time": "N/A", "status": "N/A"}]
+
+                for perf in calendar_data:
                     all_scraped_data.append({
                         "Title": title,
                         "Link": link,
@@ -398,10 +422,11 @@ def scrape_shows():
                         "Age of Production (yrs)": production_age,
                         "Category": category,
                         "Origin": origin,
-                        "Date": "N/A",
-                        "Time": "N/A",
-                        "Status": "N/A",
+                        "Date": perf["date"],
+                        "Time": perf["time"],
+                        "Status": perf["status"],
                     })
+
 
 
 
@@ -429,7 +454,7 @@ def scrape_shows():
         if all_scraped_data:
 
             os.makedirs("data", exist_ok=True)  # Ensure 'data' folder exists
-            filename = f"data/broadway_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+            filename = f"data/broadwaycopy_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
             df = pd.DataFrame(all_scraped_data)
             df.to_csv(filename, index=False)
             log_and_print(f"📁 Data saved to {filename}")
